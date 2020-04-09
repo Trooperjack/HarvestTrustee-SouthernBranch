@@ -10681,9 +10681,6 @@
 			<unit_data _prev_pos="15120 800 0" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/vehicles/str_backdrop_vehicles_animated/str_backdrop_vehicles_animated" name_id="str_backdrop_vehicles_animated_001" position="15120 800 0" rotation="0 0 -0.707107 -0.707107" unit_id="103398"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="16820 800 650" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/vehicles/str_backdrop_vehicles_animated/str_backdrop_vehicles_animated" name_id="str_backdrop_vehicles_animated_002" position="16820 800 650" rotation="0 0 -0.707107 -0.707107" unit_id="103399"/>
-		</table>
-		<table>
 			<unit_data _prev_pos="21500 800 0" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/vehicles/str_backdrop_vehicles_animated/str_backdrop_vehicles_animated" name_id="str_backdrop_vehicles_animated_003" position="21500 800 0" rotation="0 0 -0.707107 -0.707107" unit_id="103400"/>
 		</table>
 		<table>
@@ -11099,8 +11096,8 @@
 		<table>
 			<unit_data _prev_pos="-1210 -850 -20" _prev_rot="0 0 1 4.37114e-008" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="deactivate_door" name="units/pd2_dlc1/vehicles/str_vehicle_truck_gensec_transport/str_vehicle_truck_gensec_transport" name_id="str_vehicle_truck_gensec_transport_001" position="-1210 -850 -20" rotation="0 0 1 4.37114e-008" unit_id="103522">
 				<lights>
-					<table clipping_values="10000 -10000 0" color="1 0.858824 0.580392" enabled="false" falloff_exponent="4" far_range="150" multiplier="searchlight" name="lo_omni_1" near_range="0" spot_angle_end="1" spot_angle_start="1"/>
-					<table clipping_values="10000 -10000 0" color="1 0.861 0.584" enabled="false" falloff_exponent="4" far_range="150" multiplier="searchlight" name="lo_omni_2" near_range="0" spot_angle_end="0" spot_angle_start="0"/>
+					<table clipping_values="10000 -10000 0" color="1 0.858824 0.580392" enabled="false" falloff_exponent="4" far_range="150" multiplier="@ID5035addc43a80b74@" name="lo_omni_1" near_range="0" spot_angle_end="1" spot_angle_start="1"/>
+					<table clipping_values="10000 -10000 0" color="1 0.861 0.584" enabled="false" falloff_exponent="4" far_range="150" multiplier="@ID5035addc43a80b74@" name="lo_omni_2" near_range="0" spot_angle_end="0" spot_angle_start="0"/>
 				</lights>
 			</unit_data>
 		</table>
@@ -11214,6 +11211,24 @@
 		</table>
 		<table>
 			<unit_data _prev_pos="14550 1620 450" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="-270 -1370 450" local_rot="0 0 0.707107 -0.707107" name="units/payday2/props/str_prop_street_lamppost_trafficlight/str_prop_street_lamppost_trafficlight" name_id="str_prop_street_lamppost_trafficlight_032" position="14650 1620 450" rotation="0 0 -0.707107 -0.707107" unit_id="103558"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="10260 1200 1610" _prev_rot="-0 0 -0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/shadow_caster_5x5" name_id="shadow_caster_5x5_001" position="10270 1200 1610" rotation="-0 0 -0 -1" unit_id="103559"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="10450 1200 1610" _prev_rot="0 0 0 -1" continent="world" local_pos="190 0 0" local_rot="-0 0 0 1" name="units/dev_tools/level_tools/shadow_caster_5x5" name_id="shadow_caster_5x5_002" position="10460 1200 1610" rotation="0 0 0 -1" unit_id="103560"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="10450 700 1610" _prev_rot="0 0 0 -1" continent="world" local_pos="190 -500 0" local_rot="-0 0 0 1" name="units/dev_tools/level_tools/shadow_caster_5x5" name_id="shadow_caster_5x5_003" position="10460 700 1610" rotation="0 0 0 -1" unit_id="103561"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="10260 700 1610" _prev_rot="0 0 0 -1" continent="world" local_pos="0 -500 0" local_rot="-0 0 0 1" name="units/dev_tools/level_tools/shadow_caster_5x5" name_id="shadow_caster_5x5_004" position="10270 700 1610" rotation="0 0 0 -1" unit_id="103562"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="10450 200 1610" _prev_rot="0 0 0 -1" continent="world" local_pos="190 -1000 0" local_rot="-0 0 0 1" name="units/dev_tools/level_tools/shadow_caster_5x5" name_id="shadow_caster_5x5_005" position="10460 200 1610" rotation="0 0 0 -1" unit_id="103563"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="10260 200 1610" _prev_rot="0 0 0 -1" continent="world" local_pos="0 -1000 0" local_rot="-0 0 0 1" name="units/dev_tools/level_tools/shadow_caster_5x5" name_id="shadow_caster_5x5_006" position="10270 200 1610" rotation="0 0 0 -1" unit_id="103564"/>
 		</table>
 	</statics>
 	<values>

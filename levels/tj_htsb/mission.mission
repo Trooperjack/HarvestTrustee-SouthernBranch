@@ -1,4 +1,6 @@
 <table>
+	<Occluders file="Occluders/Occluders"/>
+	<collisions file="collisions/collisions"/>
 	<editor_only file="editor_only/editor_only"/>
 	<world file="world/world"/>
 </table>

@@ -1,0 +1,11 @@
+<table>
+	<editor_groups/>
+	<statics>
+		<table>
+			<unit_data _prev_pos="4810 1600 -20" _prev_rot="0 0 1 -4.37114e-008" continent="collisions" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/dev_bag_collision/dev_bag_collision_16x32m" name_id="dev_bag_collision_16x32m_029" only_visible_in_editor="true" position="4810 1600 -20" rotation="0 0 1 -4.37114e-008" unit_id="400000"/>
+		</table>
+	</statics>
+	<values>
+		<workviews/>
+	</values>
+</table>

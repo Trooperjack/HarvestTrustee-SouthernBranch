@@ -3230,9 +3230,6 @@
 			<unit_data _prev_pos="4020 30 -20" _prev_rot="0 0 0.707107 -0.707107" continent="editor_only" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/dev_bag_collision/dev_bag_collision_16x32m" name_id="dev_bag_collision_16x32m_028" only_visible_in_editor="true" position="4020 -100 -20" rotation="0 0 0.707107 -0.707107" unit_id="200998"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="4810 450 -20" _prev_rot="0 0 1 -0" continent="editor_only" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/dev_bag_collision/dev_bag_collision_16x32m" name_id="dev_bag_collision_16x32m_029" only_visible_in_editor="true" position="4810 1600 -20" rotation="0 0 1 -0" unit_id="200999"/>
-		</table>
-		<table>
 			<unit_data _prev_pos="2800 1600 350" _prev_rot="0 0 0.707107 -0.707107" continent="editor_only" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/dev_bag_collision/dev_bag_collision_16x32m" name_id="dev_bag_collision_16x32m_030" only_visible_in_editor="true" position="2800 1600 350" rotation="0 0 0.707107 -0.707107" unit_id="201000"/>
 		</table>
 		<table>
