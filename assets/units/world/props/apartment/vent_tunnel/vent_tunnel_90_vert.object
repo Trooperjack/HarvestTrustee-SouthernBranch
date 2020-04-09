@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<dynamic_object>
+  <diesel materials="units/world/props/apartment/vent_tunnel/vent_tunnel" orientation_object="rp_vent_tunnel_90_vert" />
+  <bodies>
+    <body name="static_body" enabled="true" template="static">
+      <object name="rp_vent_tunnel_90_vert" />
+      <object name="c_vent_90_vert" collision_type="convex" padding = "-2.5" />
+    </body>
+  </bodies>
+  <decal_surfaces default_material="sheet_metal" static="true">
+    <decal_mesh name="dm_vent_90_vert" enabled="true" material="sheet_metal"/>
+  </decal_surfaces>
+  <graphics>
+    <object name="g_vent_90_vert" enabled="true"  instance_struct="world_tm"/>
+    <object name="s_vent_90_vert" enabled="true" shadow_caster="true" instance_struct="world_tm"/>
+  </graphics>
+  <objects>
+    <object name="snap_01" enabled="true" />
+  </objects>
+</dynamic_object>

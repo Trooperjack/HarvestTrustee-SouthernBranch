@@ -1,0 +1,26 @@
+{
+	"heist_contact_trooperjack" : "Trooperjack",
+	"heist_contact_trooperjack_desc" : "I like making custom heists even if it takes me forever to finish them.\n\nI also love dragons... like, REALLY love dragons.",
+	"heist_Harvest & Trustee: Southern Branch_name" : "Harvest & Trustee: Southern Branch",
+	"heist_Harvest & Trustee: Southern Branch_brief" : "Brief text goes here.  c:",
+	"heist_tj_htsb_name" : "Harvest & Trustee: Southern Branch",
+	"heist_tj_htsb_brief" : "Heist brief goes here.  OwO",
+	
+	
+	"tj_htsb_01_grablance" : "Get the Thermal Drill",
+	"tj_htsb_01_grablance_desc" : "",
+	"tj_htsb_02_droplance" : "Place the Thermal Drill",
+	"tj_htsb_02_droplance_desc" : "",
+	"tj_htsb_03_setuplance" : "Setup the Thermal Drill",
+	"tj_htsb_03_setuplance_desc" : "",
+	"tj_htsb_04_waitlance" : "Wait for the Thermal Drill to finish",
+	"tj_htsb_04_waitlance_desc" : "",
+	"tj_htsb_05_getinvault" : "Loot the vault",
+	"tj_htsb_05_getinvault_desc" : "",
+	"tj_htsb_06_waitescape" : "Wait for the escape vehicle",
+	"tj_htsb_06_waitescape_desc" : "",
+	"tj_htsb_07_secureloot" : "Secure the Loot",
+	"tj_htsb_07_secureloot_desc" : "",
+	"tj_htsb_08_escape" : "Escape",
+	"tj_htsb_08_escape_desc" : ""
+}
