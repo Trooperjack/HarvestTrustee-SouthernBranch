@@ -1,0 +1,179 @@
+<table>
+	<editor_groups/>
+	<statics>
+		<table>
+			<unit_data _prev_pos="-9270 -4870 1870" _prev_rot="-0 0 -0 -1" continent="shadow_casters" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/shadow_caster_10x10" name_id="shadow_caster_10x10_001" position="-9270 -4870 1870" rotation="-0 0 -0 -1" unit_id="500000"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-8780 -5410 1870" _prev_rot="-0 0 -0 -1" continent="shadow_casters" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/shadow_caster_5x5" name_id="shadow_caster_5x5_007" position="-8780 -5410 1870" rotation="-0 0 -0 -1" unit_id="500001"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-8780 -5760 1870" _prev_rot="0 0 0 -1" continent="shadow_casters" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/shadow_caster_5x5" name_id="shadow_caster_5x5_008" position="-8780 -5760 1870" rotation="0 0 0 -1" unit_id="500002"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-9280 -5410 1870" _prev_rot="0 0 0 -1" continent="shadow_casters" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/shadow_caster_5x5" name_id="shadow_caster_5x5_009" position="-9280 -5410 1870" rotation="0 0 0 -1" unit_id="500003"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-9280 -5760 1870" _prev_rot="0 0 0 -1" continent="shadow_casters" local_pos="0 -350 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/shadow_caster_5x5" name_id="shadow_caster_5x5_010" position="-9280 -5760 1870" rotation="0 0 0 -1" unit_id="500004"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-8780 -6210 1470" _prev_rot="0 0 0 -1" continent="shadow_casters" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/shadow_caster_5x5" name_id="shadow_caster_5x5_011" position="-8780 -6210 1490" rotation="0 0 0 -1" unit_id="500005"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-8780 -6560 1490" _prev_rot="0 0 0 -1" continent="shadow_casters" local_pos="500 -350 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/shadow_caster_5x5" name_id="shadow_caster_5x5_012" position="-8780 -6560 1490" rotation="0 0 0 -1" unit_id="500006"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-9280 -6210 1490" _prev_rot="0 0 0 -1" continent="shadow_casters" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/shadow_caster_5x5" name_id="shadow_caster_5x5_013" position="-9280 -6210 1490" rotation="0 0 0 -1" unit_id="500007"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-9280 -6560 1490" _prev_rot="0 0 0 -1" continent="shadow_casters" local_pos="0 -350 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/shadow_caster_5x5" name_id="shadow_caster_5x5_014" position="-9280 -6560 1490" rotation="0 0 0 -1" unit_id="500008"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-10050 -4630 1420" _prev_rot="0 0 0 -1" continent="shadow_casters" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/shadow_caster_10x10" name_id="shadow_caster_10x10_002" position="-9920 -4630 1420" rotation="0 0 0 -1" unit_id="500009"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-8890 -4480 1420" _prev_rot="0 0 0 -1" continent="shadow_casters" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/shadow_caster_10x10" name_id="shadow_caster_10x10_003" position="-8890 -4480 1420" rotation="0 0 0 -1" unit_id="500010"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-8890 -4480 1420" _prev_rot="0 0 0 -1" continent="shadow_casters" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/shadow_caster_10x10" name_id="shadow_caster_10x10_004" position="-8890 -5400 1420" rotation="0 0 0 -1" unit_id="500011"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-8770 -2200 1870" _prev_rot="0 0 0 -1" continent="shadow_casters" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/shadow_caster_5x5" name_id="shadow_caster_5x5_015" position="-8780 -2200 1870" rotation="0 0 0 -1" unit_id="500012"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-8780 -2550 1870" _prev_rot="0 0 0 -1" continent="shadow_casters" local_pos="500 -350 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/shadow_caster_5x5" name_id="shadow_caster_5x5_016" position="-8780 -2550 1870" rotation="0 0 0 -1" unit_id="500013"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-9280 -2200 1870" _prev_rot="0 0 0 -1" continent="shadow_casters" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/shadow_caster_5x5" name_id="shadow_caster_5x5_017" position="-9280 -2200 1870" rotation="0 0 0 -1" unit_id="500014"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-9280 -2550 1870" _prev_rot="0 0 0 -1" continent="shadow_casters" local_pos="500 -350 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/shadow_caster_5x5" name_id="shadow_caster_5x5_018" position="-9280 -2550 1870" rotation="0 0 0 -1" unit_id="500015"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-9780 -2200 1870" _prev_rot="0 0 0 -1" continent="shadow_casters" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/shadow_caster_5x5" name_id="shadow_caster_5x5_019" position="-9780 -2200 1870" rotation="0 0 0 -1" unit_id="500016"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-9780 -2550 1870" _prev_rot="0 0 0 -1" continent="shadow_casters" local_pos="0 -350 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/shadow_caster_5x5" name_id="shadow_caster_5x5_020" position="-9780 -2550 1870" rotation="0 0 0 -1" unit_id="500017"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-10280 -2200 1870" _prev_rot="0 0 0 -1" continent="shadow_casters" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/shadow_caster_5x5" name_id="shadow_caster_5x5_021" position="-10280 -2200 1870" rotation="0 0 0 -1" unit_id="500018"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-10280 -2550 1870" _prev_rot="0 0 0 -1" continent="shadow_casters" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/shadow_caster_5x5" name_id="shadow_caster_5x5_022" position="-10280 -2550 1870" rotation="0 0 0 -1" unit_id="500019"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-10780 -2200 1870" _prev_rot="0 0 0 -1" continent="shadow_casters" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/shadow_caster_5x5" name_id="shadow_caster_5x5_023" position="-10780 -2200 1870" rotation="0 0 0 -1" unit_id="500020"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-10780 -2550 1870" _prev_rot="0 0 0 -1" continent="shadow_casters" local_pos="0 -350 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/shadow_caster_5x5" name_id="shadow_caster_5x5_024" position="-10780 -2550 1870" rotation="0 0 0 -1" unit_id="500021"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-9030 -1400 1870" _prev_rot="0 0 0 -1" continent="shadow_casters" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/shadow_caster_5x5" name_id="shadow_caster_5x5_025" position="-9020 -1400 1870" rotation="0 0 0 -1" unit_id="500022"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-9020 -1750 1870" _prev_rot="0 0 0 -1" continent="shadow_casters" local_pos="500 -350 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/shadow_caster_5x5" name_id="shadow_caster_5x5_026" position="-9020 -1750 1870" rotation="0 0 0 -1" unit_id="500023"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-9520 -1400 1870" _prev_rot="0 0 0 -1" continent="shadow_casters" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/shadow_caster_5x5" name_id="shadow_caster_5x5_027" position="-9520 -1400 1870" rotation="0 0 0 -1" unit_id="500024"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-9520 -1750 1870" _prev_rot="0 0 0 -1" continent="shadow_casters" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/shadow_caster_5x5" name_id="shadow_caster_5x5_028" position="-9520 -1750 1870" rotation="0 0 0 -1" unit_id="500025"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-10020 -1400 1870" _prev_rot="0 0 0 -1" continent="shadow_casters" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/shadow_caster_5x5" name_id="shadow_caster_5x5_029" position="-10020 -1400 1870" rotation="0 0 0 -1" unit_id="500026"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-10020 -1750 1870" _prev_rot="0 0 0 -1" continent="shadow_casters" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/shadow_caster_5x5" name_id="shadow_caster_5x5_030" position="-10020 -1750 1870" rotation="0 0 0 -1" unit_id="500027"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-9430 -770 1870" _prev_rot="0 0 0 -1" continent="shadow_casters" local_pos="340 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/shadow_caster_5x5" name_id="shadow_caster_5x5_031" position="-9430 -770 1870" rotation="0 0 0 -1" unit_id="500028"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-9770 -770 1870" _prev_rot="0 0 0 -1" continent="shadow_casters" local_pos="0 500 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/shadow_caster_5x5" name_id="shadow_caster_5x5_032" position="-9770 -770 1870" rotation="0 0 0 -1" unit_id="500029"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-9770 -1270 1870" _prev_rot="0 0 0 -1" continent="shadow_casters" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/shadow_caster_5x5" name_id="shadow_caster_5x5_033" position="-9770 -1270 1870" rotation="0 0 0 -1" unit_id="500030"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-9430 -1270 1870" _prev_rot="0 0 0 -1" continent="shadow_casters" local_pos="340 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/shadow_caster_5x5" name_id="shadow_caster_5x5_034" position="-9430 -1270 1870" rotation="0 0 0 -1" unit_id="500031"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-8450 -900 500" _prev_rot="0.707107 3.09086e-008 -0.707107 3.09086e-008" continent="shadow_casters" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/shadow_caster_10x10" name_id="shadow_caster_10x10_005" position="-8450 -900 500" rotation="0.707107 3.09086e-008 -0.707107 3.09086e-008" unit_id="500032"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-8480 -1700 500" _prev_rot="0.707107 3.09086e-008 -0.707107 3.09086e-008" continent="shadow_casters" local_pos="400 0 7.64274e-013" local_rot="0 0 0 1" name="units/dev_tools/level_tools/shadow_caster_10x10" name_id="shadow_caster_10x10_006" position="-8450 -1700 500" rotation="0.707107 3.09086e-008 -0.707107 3.09086e-008" unit_id="500033"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-8480 -2300 500" _prev_rot="0.707107 3.09086e-008 -0.707107 3.09086e-008" continent="shadow_casters" local_pos="400 600 5.24537e-005" local_rot="0 0 0 1" name="units/dev_tools/level_tools/shadow_caster_10x10" name_id="shadow_caster_10x10_007" position="-8450 -2300 500" rotation="0.707107 3.09086e-008 -0.707107 3.09086e-008" unit_id="500034"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-8480 -1700 900" _prev_rot="0.707107 3.09086e-008 -0.707107 3.09086e-008" continent="shadow_casters" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/shadow_caster_10x10" name_id="shadow_caster_10x10_008" position="-8450 -1700 900" rotation="0.707107 3.09086e-008 -0.707107 3.09086e-008" unit_id="500035"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-8480 -2300 900" _prev_rot="0.707107 3.09086e-008 -0.707107 3.09086e-008" continent="shadow_casters" local_pos="0 600 5.24537e-005" local_rot="0 0 0 1" name="units/dev_tools/level_tools/shadow_caster_10x10" name_id="shadow_caster_10x10_009" position="-8450 -2300 900" rotation="0.707107 3.09086e-008 -0.707107 3.09086e-008" unit_id="500036"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-12680 -5800 170" _prev_rot="0 0.707107 0 -0.707107" continent="shadow_casters" local_pos="0 -13200 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/shadow_caster_10x10" name_id="shadow_caster_10x10_010" position="-12800 -5800 170" rotation="0 0.707107 0 -0.707107" unit_id="500037"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-12680 -4800 170" _prev_rot="0 0.707107 0 -0.707107" continent="shadow_casters" local_pos="0 -12200 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/shadow_caster_10x10" name_id="shadow_caster_10x10_011" position="-12800 -4800 170" rotation="0 0.707107 0 -0.707107" unit_id="500038"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-12680 -3800 170" _prev_rot="0 0.707107 0 -0.707107" continent="shadow_casters" local_pos="0 -11200 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/shadow_caster_10x10" name_id="shadow_caster_10x10_012" position="-12800 -3800 170" rotation="0 0.707107 0 -0.707107" unit_id="500039"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-12680 -2800 170" _prev_rot="0 0.707107 0 -0.707107" continent="shadow_casters" local_pos="0 -10200 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/shadow_caster_10x10" name_id="shadow_caster_10x10_013" position="-12800 -2800 170" rotation="0 0.707107 0 -0.707107" unit_id="500040"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-12680 -1800 170" _prev_rot="0 0.707107 0 -0.707107" continent="shadow_casters" local_pos="0 -9200 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/shadow_caster_10x10" name_id="shadow_caster_10x10_014" position="-12800 -1800 170" rotation="0 0.707107 0 -0.707107" unit_id="500041"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-12680 -800 170" _prev_rot="0 0.707107 0 -0.707107" continent="shadow_casters" local_pos="0 -8200 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/shadow_caster_10x10" name_id="shadow_caster_10x10_015" position="-12800 -800 170" rotation="0 0.707107 0 -0.707107" unit_id="500042"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-12680 -400 170" _prev_rot="0 0.707107 0 -0.707107" continent="shadow_casters" local_pos="0 -7800 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/shadow_caster_10x10" name_id="shadow_caster_10x10_016" position="-12800 -400 170" rotation="0 0.707107 0 -0.707107" unit_id="500043"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-12680 2000 170" _prev_rot="0 0.707107 0 -0.707107" continent="shadow_casters" local_pos="0 -5400 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/shadow_caster_10x10" name_id="shadow_caster_10x10_017" position="-12800 2000 170" rotation="0 0.707107 0 -0.707107" unit_id="500044"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-12680 3000 170" _prev_rot="0 0.707107 0 -0.707107" continent="shadow_casters" local_pos="0 -4400 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/shadow_caster_10x10" name_id="shadow_caster_10x10_018" position="-12800 3000 170" rotation="0 0.707107 0 -0.707107" unit_id="500045"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-12680 4000 170" _prev_rot="0 0.707107 0 -0.707107" continent="shadow_casters" local_pos="0 -3400 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/shadow_caster_10x10" name_id="shadow_caster_10x10_019" position="-12800 4000 170" rotation="0 0.707107 0 -0.707107" unit_id="500046"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-12680 5000 170" _prev_rot="0 0.707107 0 -0.707107" continent="shadow_casters" local_pos="0 -2400 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/shadow_caster_10x10" name_id="shadow_caster_10x10_020" position="-12800 5000 170" rotation="0 0.707107 0 -0.707107" unit_id="500047"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-12680 6000 170" _prev_rot="0 0.707107 0 -0.707107" continent="shadow_casters" local_pos="0 -1400 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/shadow_caster_10x10" name_id="shadow_caster_10x10_021" position="-12800 6000 170" rotation="0 0.707107 0 -0.707107" unit_id="500048"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-12680 7000 170" _prev_rot="0 0.707107 0 -0.707107" continent="shadow_casters" local_pos="0 -400 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/shadow_caster_10x10" name_id="shadow_caster_10x10_022" position="-12800 7000 170" rotation="0 0.707107 0 -0.707107" unit_id="500049"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-12680 7400 170" _prev_rot="0 0.707107 0 -0.707107" continent="shadow_casters" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/shadow_caster_10x10" name_id="shadow_caster_10x10_023" position="-12800 7400 170" rotation="0 0.707107 0 -0.707107" unit_id="500050"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="10270 1200 1610" _prev_rot="0 0 0 -1" continent="shadow_casters" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/shadow_caster_5x5" name_id="shadow_caster_5x5_001" position="10270 1200 1610" rotation="-0 0 -0 -1" unit_id="500051"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="10270 700 1610" _prev_rot="0 0 0 -1" continent="shadow_casters" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/shadow_caster_5x5" name_id="shadow_caster_5x5_004" position="10270 700 1610" rotation="-0 0 -0 -1" unit_id="500052"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="10270 200 1610" _prev_rot="0 0 0 -1" continent="shadow_casters" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/shadow_caster_5x5" name_id="shadow_caster_5x5_006" position="10270 200 1610" rotation="-0 0 -0 -1" unit_id="500053"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="10460 200 1610" _prev_rot="0 0 0 -1" continent="shadow_casters" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/shadow_caster_5x5" name_id="shadow_caster_5x5_005" position="10460 200 1610" rotation="-0 0 -0 -1" unit_id="500054"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="10460 700 1610" _prev_rot="0 0 0 -1" continent="shadow_casters" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/shadow_caster_5x5" name_id="shadow_caster_5x5_003" position="10460 700 1610" rotation="-0 0 -0 -1" unit_id="500055"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="10460 1200 1610" _prev_rot="0 0 0 -1" continent="shadow_casters" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/shadow_caster_5x5" name_id="shadow_caster_5x5_002" position="10460 1200 1610" rotation="-0 0 -0 -1" unit_id="500056"/>
+		</table>
+	</statics>
+	<values>
+		<workviews/>
+	</values>
+</table>
