@@ -2,12 +2,12 @@ Hooks:PostHook(TweakData,"_init_pd2","anim_data",function(self)
     self.level_tj_htsb = {}
     self.level_tj_htsb.anim_data = {
         from = {
-            Vector3(-380,230,850), -- From Location
-            Rotation(18,6,-0) -- From Rotation
+            Vector3(250,230,850), -- From Location
+            Rotation(18,8,-0) -- From Rotation
         },
         to = {
             Vector3(2050,300,850), -- To location
-            Rotation(-30,6,0) -- To Rotation
+            Rotation(-30,8,0) -- To Rotation
         },
         speed = 15, -- Speed, tweak this to fit the dialogue / distance from to to
         marker = { -- This is data for the actual "Hologram"

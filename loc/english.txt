@@ -1,8 +1,8 @@
 {
 	"heist_contact_trooperjack" : "Trooperjack",
 	"heist_contact_trooperjack_desc" : "I like making custom heists even if it takes me forever to finish them.\n\nI also love dragons... like, REALLY love dragons.",
-	"heist_Harvest & Trustee: Southern Branch_name" : "Harvest & Trustee: Southern Branch",
-	"heist_Harvest & Trustee: Southern Branch_brief" : "Brief text goes here.  c:",
+	"heist_HarvestTrustee_SouthernBranch_name" : "Harvest & Trustee: Southern Branch",
+	"heist_HarvestTrustee_SouthernBranch_brief" : "Brief text goes here.  c:",
 	"heist_tj_htsb_name" : "Harvest & Trustee: Southern Branch",
 	"heist_tj_htsb_brief" : "Heist brief goes here.  OwO",
 	
@@ -21,6 +21,6 @@
 	"tj_htsb_06_waitescape_desc" : "",
 	"tj_htsb_07_secureloot" : "Secure the Loot",
 	"tj_htsb_07_secureloot_desc" : "",
-	"tj_htsb_08_escape" : "Escape",
+	"tj_htsb_08_escape" : "Escape available",
 	"tj_htsb_08_escape_desc" : ""
 }

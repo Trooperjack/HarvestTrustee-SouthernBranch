@@ -172,6 +172,18 @@
 		<table>
 			<unit_data _prev_pos="10460 1200 1610" _prev_rot="0 0 0 -1" continent="shadow_casters" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/shadow_caster_5x5" name_id="shadow_caster_5x5_002" position="10460 1200 1610" rotation="-0 0 -0 -1" unit_id="500056"/>
 		</table>
+		<table>
+			<unit_data _prev_pos="9800 3300 2490" _prev_rot="-0 0 -0 -1" continent="shadow_casters" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/shadow_caster_20x20" name_id="shadow_caster_20x20_001" position="9800 3300 2490" rotation="-0 0 -0 -1" unit_id="500057"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="11760 3300 2490" _prev_rot="0 0 0 -1" continent="shadow_casters" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/shadow_caster_20x20" name_id="shadow_caster_20x20_002" position="11760 3300 2490" rotation="0 0 0 -1" unit_id="500058"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="11760 5300 2490" _prev_rot="0 0 0 -1" continent="shadow_casters" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/shadow_caster_20x20" name_id="shadow_caster_20x20_003" position="11760 5300 2490" rotation="0 0 0 -1" unit_id="500059"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="9800 5300 2490" _prev_rot="0 0 0 -1" continent="shadow_casters" local_pos="-1960 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/shadow_caster_20x20" name_id="shadow_caster_20x20_004" position="9800 5300 2490" rotation="0 0 0 -1" unit_id="500060"/>
+		</table>
 	</statics>
 	<values>
 		<workviews/>

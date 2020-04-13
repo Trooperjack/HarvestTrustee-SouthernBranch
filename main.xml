@@ -1,4 +1,4 @@
-<table name="Harvest &amp; Trustee: Southern Branch">
+<table name="HarvestTrustee_SouthernBranch">
 	<AssetUpdates id="-1" provider="modworkshop" use_local_dir="true" version="1"/>
 	<Hooks directory="hooks">
 		<hook file="guitweakdata.lua" source_file="lib/tweak_data/guitweakdata"/>
@@ -6,7 +6,7 @@
 	</Hooks>
 	<Localization default="english.txt" directory="loc"/>
 	<contact assets_gui="guis/mission_briefing/preload_contact_bain" id="trooperjack" name_id="heist_contact_trooperjack" package="packages/contact_bain"/>
-	<level ai_group_type="America" briefing_dialog="Play_pln_branchbank_random_stage1_brief" cube="cube_apply_heist_bank" ghost_bonus="0.1" id="tj_htsb" intro_event="Play_pln_branchbank_random_a_intro_a" max_bags="54" player_style="generic">
+	<level ai_group_type="America" briefing_dialog="Play_pln_branchbank_random_stage1_brief" cube="cube_apply_heist_bank" ghost_bonus="0.1" id="tj_htsb" intro_event="Play_pln_branchbank_random_a_intro_a" max_bags="20" player_style="generic">
 		<add file="levels/tj_htsb/add.xml"/>
 		<assets>
 			<asset name="ammo_bag"/>
@@ -17,10 +17,10 @@
 			<asset name="camera_access"/>
 		</assets>
 		<include directory="levels/tj_htsb">
+			<file file="nav_manager_data.nav_data" type="generic_xml"/>
 			<file file="world.world" type="generic_xml"/>
 			<file file="continents.continents" type="custom_xml"/>
 			<file file="mission.mission" type="custom_xml"/>
-			<file file="nav_manager_data.nav_data" type="generic_xml"/>
 			<file file="world_sounds.world_sounds" type="generic_xml"/>
 			<file file="world_cameras.world_cameras" type="custom_xml"/>
 			<file file="collisions/collisions.continent" type="custom_xml"/>
@@ -64,7 +64,7 @@
 			</mod>
 		</script_data_mods>
 	</level>
-	<narrative briefing_event="pln_branchbank_random_brf_speak" contact="trooperjack" id="Harvest &amp; Trustee: Southern Branch" jc="30" load_screen="guis/dlcs/pic/textures/loading/job_branchbank" region="street">
+	<narrative briefing_event="pln_branchbank_random_brf_speak" contact="trooperjack" id="HarvestTrustee_SouthernBranch" jc="30" load_screen="guis/dlcs/pic/textures/loading/job_branchbank" region="street">
 		<chain>
 			<table level_id="tj_htsb" type="d" type_id="heist_type_assault"/>
 		</chain>
