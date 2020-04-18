@@ -17,10 +17,10 @@
 			<asset name="camera_access"/>
 		</assets>
 		<include directory="levels/tj_htsb">
+			<file file="nav_manager_data.nav_data" type="generic_xml"/>
 			<file file="world.world" type="generic_xml"/>
 			<file file="continents.continents" type="custom_xml"/>
 			<file file="mission.mission" type="custom_xml"/>
-			<file file="nav_manager_data.nav_data" type="generic_xml"/>
 			<file file="world_sounds.world_sounds" type="generic_xml"/>
 			<file file="world_cameras.world_cameras" type="custom_xml"/>
 			<file file="collisions/collisions.continent" type="custom_xml"/>
@@ -56,6 +56,7 @@
 			<value_node value="levels/instances/unique/pet_pet/world/world"/>
 			<value_node value="levels/instances/unique/holly_2/safe_van/world/world"/>
 			<value_node value="levels/instances/unique/shout_container_vault/world/world"/>
+			<value_node value="levels/narratives/vlad/nightclub/nightclub_interior/nightclub_interior"/>
 			<value_node value="levels/narratives/bain/rat/world_sounds"/>
 		</packages>
 		<script_data_mods directory="scriptdata">
