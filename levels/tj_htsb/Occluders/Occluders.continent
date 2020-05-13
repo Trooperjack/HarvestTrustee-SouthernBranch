@@ -2,10 +2,10 @@
 	<editor_groups/>
 	<statics>
 		<table>
-			<unit_data _prev_pos="2470 1580 0" _prev_rot="0 0 0.707107 -0.707107" continent="Occluders" helper_type="occluder" local_pos="940 0 0" local_rot="0 0 0 1" name="RAID_World_War_II/units/vanilla/occluders/occluder_plane_double_16x8" name_id="occluder_plane_double_16x8_001" only_visible_in_editor="true" position="2500 1580 0" rotation="0 0 0.707107 -0.707107" unit_id="300000"/>
+			<unit_data _prev_pos="2850 1690 0" _prev_rot="0 0 0.707107 -0.707107" continent="Occluders" helper_type="occluder" local_pos="0 0 0" local_rot="0 0 0 1" name="RAID_World_War_II/units/vanilla/occluders/occluder_plane_double_16x8" name_id="occluder_plane_double_16x8_001" only_visible_in_editor="true" position="2850 1800 0" rotation="0 0 0.707107 -0.707107" unit_id="300000"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="2500 2520 0" _prev_rot="0 0 0.707107 -0.707107" continent="Occluders" helper_type="occluder" local_pos="0 0 0" local_rot="0 0 0 1" name="RAID_World_War_II/units/vanilla/occluders/occluder_plane_double_16x8" name_id="occluder_plane_double_16x8_002" only_visible_in_editor="true" position="2500 2540 0" rotation="0 0 0.707107 -0.707107" unit_id="300001"/>
+			<unit_data _prev_pos="2860 2540 0" _prev_rot="0 0 0.707107 -0.707107" continent="Occluders" helper_type="occluder" local_pos="0 0 0" local_rot="0 0 0 1" name="RAID_World_War_II/units/vanilla/occluders/occluder_plane_double_16x8" name_id="occluder_plane_double_16x8_002" only_visible_in_editor="true" position="2850 2540 0" rotation="0 0 0.707107 -0.707107" unit_id="300001"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="470 6100 0" _prev_rot="0 0 0.707107 -0.707107" continent="Occluders" helper_type="occluder" local_pos="0 0 0" local_rot="0 0 0 1" name="RAID_World_War_II/units/vanilla/occluders/occluder_plane_double_16x8" name_id="occluder_plane_double_16x8_003" only_visible_in_editor="true" position="470 6100 0" rotation="0 0 0.707107 -0.707107" unit_id="300002"/>
@@ -387,6 +387,12 @@
 		</table>
 		<table>
 			<unit_data _prev_pos="4470 7500 0" _prev_rot="0 0 1 -0" continent="Occluders" helper_type="occluder" local_pos="0 0 0" local_rot="0 0 0 1" name="RAID_World_War_II/units/vanilla/occluders/occluder_plane_double_16x8" name_id="occluder_plane_double_16x8_059" only_visible_in_editor="true" position="4470 7500 0" rotation="0 0 1 -0" unit_id="300128"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="2570 3440 400" _prev_rot="0 0 1 -0" continent="Occluders" helper_type="occluder" local_pos="0 0 0" local_rot="0 0 0 1" name="RAID_World_War_II/units/vanilla/occluders/occluder_plane_double_4x4" name_id="occluder_plane_double_4x4_061" only_visible_in_editor="true" position="2470 3440 400" rotation="0 0 1 -0" unit_id="300129"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="2450 3350 0" _prev_rot="0 0 1 -4.37114e-008" continent="Occluders" helper_type="occluder" local_pos="0 0 0" local_rot="0 0 0 1" name="RAID_World_War_II/units/vanilla/occluders/occluder_plane_double_4x4" name_id="occluder_plane_double_4x4_062" only_visible_in_editor="true" position="2450 3350 0" rotation="0 0 1 -4.37114e-008" unit_id="300130"/>
 		</table>
 	</statics>
 	<values>
