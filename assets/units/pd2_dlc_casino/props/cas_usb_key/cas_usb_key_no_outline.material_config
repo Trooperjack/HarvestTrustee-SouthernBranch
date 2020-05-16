@@ -1,0 +1,18 @@
+<materials version="3" group="cas_usb_key">
+    <material name="mat_chip" render_template="generic:DIFFUSE_TEXTURE:NORMALMAP" version="2">
+        <diffuse_texture file="units/pd2_dlc_casino/props/cas_prop_cashier_chipmarkers/cas_prop_cashier_chipmarkers_df"/>
+        <bump_normal_texture file="units/pd2_dlc_casino/props/cas_prop_cashier_chipmarkers/cas_prop_cashier_chipmarkers_nm"/>
+    </material>
+    <material name="mat_chip_no_outline" render_template="generic:DIFFUSE_TEXTURE:NORMALMAP" version="2">
+        <diffuse_texture file="units/pd2_dlc_casino/props/cas_prop_cashier_chipmarkers/cas_prop_cashier_chipmarkers_df"/>
+        <bump_normal_texture file="units/pd2_dlc_casino/props/cas_prop_cashier_chipmarkers/cas_prop_cashier_chipmarkers_nm"/>
+    </material>
+    <material name="mat_usb_key" render_template="generic:DIFFUSE_TEXTURE:NORMALMAP" version="2">
+        <diffuse_texture file="units/pd2_dlc_casino/props/cas_usb_key/textures/cas_usb_key_df"/>
+        <bump_normal_texture file="units/pd2_dlc_casino/props/cas_usb_key/textures/cas_usb_key_nm"/>
+    </material>
+    <material name="mat_usb_key_no_outline" render_template="generic:DIFFUSE_TEXTURE:NORMALMAP" version="2">
+        <diffuse_texture file="units/pd2_dlc_casino/props/cas_usb_key/textures/cas_usb_key_df"/>
+        <bump_normal_texture file="units/pd2_dlc_casino/props/cas_usb_key/textures/cas_usb_key_nm"/>
+    </material>
+</materials>

@@ -1,0 +1,16 @@
+<unit type="cas" slot="1">
+	<object file="units/pd2_dlc_casino/props/cas_usb_key/cas_usb_key" />
+	<network sync="spawn"/>
+	<dependencies>
+		<depends_on material_config="units/pd2_dlc_casino/props/cas_usb_key/cas_usb_key_no_outline" />
+	</dependencies>
+	<extensions>
+		<extension name="unit_data" class="ScriptUnitData" />
+		<extension name="damage" class="UnitDamage" />
+        <extension name="interaction" class="SpecialEquipmentInteractionExt">
+        	<var name="tweak_data" value="cas_take_usb_key" />
+        	<var name="_special_equipment" value="cas_usb_key" />
+        	<var name="_remove_on_interact" value="true"/>
+        </extension>
+	</extensions>
+</unit>

@@ -1,4 +1,17 @@
 <table name="HarvestTrustee_SouthernBranch">
+	<Achievements banner="guis/textures/mods/CustomAchievement/tj_htsb/tj_htsb_banner" icon="guis/textures/mods/CustomAchievement/tj_htsb/tj_htsb_pack" id="tj_htsb_achievements">
+		<achievement icon="guis/textures/mods/CustomAchievement/tj_htsb/tj_htsb_deathSentence" id="tj_htsb_deathSentence" rank="4"/>
+		<achievement icon="guis/textures/mods/CustomAchievement/tj_htsb/tj_htsb_deathWish" id="tj_htsb_deathWish" rank="3"/>
+		<achievement icon="guis/textures/mods/CustomAchievement/tj_htsb/tj_htsb_mayhem" id="tj_htsb_mayhem" rank="3"/>
+		<achievement icon="guis/textures/mods/CustomAchievement/tj_htsb/tj_htsb_overkill" id="tj_htsb_overkill" rank="2"/>
+		<achievement icon="guis/textures/mods/CustomAchievement/tj_htsb/tj_htsb_veryHard" id="tj_htsb_veryHard" rank="2"/>
+		<achievement icon="guis/textures/mods/CustomAchievement/tj_htsb/tj_htsb_hard" id="tj_htsb_hard" rank="1"/>
+		<achievement icon="guis/textures/mods/CustomAchievement/tj_htsb/tj_htsb_normal" id="tj_htsb_normal" rank="1"/>
+		<achievement icon="guis/textures/mods/CustomAchievement/tj_htsb/tj_htsb_emptyVault" id="tj_htsb_emptyVault" rank="2"/>
+		<achievement icon="guis/textures/mods/CustomAchievement/tj_htsb/tj_htsb_memeVault_nukes" id="tj_htsb_memeVault_nukes" rank="4"/>
+		<achievement icon="guis/textures/mods/CustomAchievement/tj_htsb/tj_htsb_memeVault_goats" id="tj_htsb_memeVault_goats" rank="4"/>
+		<achievement icon="guis/textures/mods/CustomAchievement/tj_htsb/tj_htsb_copApartment" id="tj_htsb_copApartment" rank="3"/>
+	</Achievements>
 	<AssetUpdates id="-1" provider="modworkshop" use_local_dir="true" version="1"/>
 	<Hooks directory="hooks">
 		<hook file="guitweakdata.lua" source_file="lib/tweak_data/guitweakdata"/>
@@ -53,6 +66,7 @@
 			<value_node value="levels/narratives/elephant/chew/collision/collision"/>
 			<value_node value="levels/narratives/armadillo/arm_cro/world"/>
 			<value_node value="levels/narratives/armadillo/arm_cro/world/world"/>
+			<value_node value="levels/instances/unique/hvh/hvh_chance/world/world"/>
 			<value_node value="levels/instances/unique/pet_pet/world/world"/>
 			<value_node value="levels/instances/unique/holly_2/safe_van/world/world"/>
 			<value_node value="levels/instances/unique/shout_container_vault/world/world"/>

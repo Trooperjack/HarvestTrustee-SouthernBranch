@@ -1,0 +1,16 @@
+<dynamic_object>
+	<diesel materials="units/pd2_dlc_casino/props/cas_usb_key/cas_usb_key" orientation_object="rp_cas_usb_key" />
+	<sequence_manager file="units/pd2_dlc_casino/props/cas_usb_key/cas_usb_key" />
+	<bodies>
+		<body name="body_static" enabled="true" template="editor">
+			<object name="rp_cas_usb_key" />
+			<object name="c_box_editor" collision_type="box" padding="-2.5" />
+		</body>
+	</bodies>
+	<graphics>
+		<lod_object name="geometry">
+			<object name="g_g" enabled="true"  max_distance="1000"  max_draw_lod="0" />
+			<object name="g_g_lod_01" enabled="true" lod="1" />
+		</lod_object>
+	</graphics>
+</dynamic_object>
