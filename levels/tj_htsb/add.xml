@@ -381,10 +381,17 @@
 		<unit path="units/pd2_dlc_casino/props/cas_usb_key/cas_usb_key" unload="true"/>
 	</add>
 	<add path="units/pd2_dlc_short/props/gen_fbi_usb_stick/gen_fbi_usb_stick" type="unit">
-		<unit path="units/pd2_dlc_short/props/gen_fbi_usb_stick/gen_fbi_usb_stick" unload="true"/>
-		<object path="units/pd2_dlc_short/props/gen_fbi_usb_stick/gen_fbi_usb_stick" unload="true"/>
+		<bnk path="soundbanks/regular_sfx" unload="true"/>
 		<material_config path="units/pd2_dlc_short/props/gen_fbi_usb_stick/gen_fbi_usb_stick" unload="true"/>
+		<object path="units/pd2_dlc_short/props/gen_fbi_usb_stick/gen_fbi_usb_stick" unload="true"/>
 		<sequence_manager path="units/pd2_dlc_short/props/gen_fbi_usb_stick/gen_fbi_usb_stick" unload="true"/>
+		<unit path="units/pd2_dlc_short/props/gen_fbi_usb_stick/gen_fbi_usb_stick" unload="true"/>
+	</add>
+	<add path="units/pd2_dlc_dah/props/dah_prop_control_device_keycard_reader/dah_prop_control_device_keycard_reader" type="unit">
+		<unit path="units/pd2_dlc_dah/props/dah_prop_control_device_keycard_reader/dah_prop_control_device_keycard_reader" unload="true"/>
+		<object path="units/pd2_dlc_dah/props/dah_prop_control_device_keycard_reader/dah_prop_control_device_keycard_reader" unload="true"/>
+		<material_config path="units/pd2_mcmansion/props/mcm_prop_panicroom/mcm_prop_panicroom_controldevice_retinascanner" unload="true"/>
+		<sequence_manager path="units/pd2_dlc_dah/props/dah_prop_control_device_keycard_reader/dah_prop_control_device_keycard_reader" unload="true"/>
 		<bnk path="soundbanks/regular_sfx" unload="true"/>
 	</add>
 </table>

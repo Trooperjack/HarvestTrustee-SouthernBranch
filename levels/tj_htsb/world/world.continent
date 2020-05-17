@@ -12906,8 +12906,8 @@
 		<table>
 			<unit_data _prev_pos="4400 9800 0" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/pd2_dlc1/vehicles/str_vehicle_van_arm_1/str_vehicle_van_arm_1" name_id="str_vehicle_van_arm_1_006" position="4400 9800 0" rotation="0 0 -0.707107 -0.707107" unit_id="104241">
 				<lights>
-					<table clipping_values="10000 -10000 0" color="1 0.858824 0.576471" enabled="true" falloff_exponent="4" far_range="150" multiplier="identity" name="lo_omni_1" near_range="0" spot_angle_end="1" spot_angle_start="1"/>
-					<table clipping_values="10000 -10000 0" color="1 0.861 0.584" enabled="true" falloff_exponent="4" far_range="150" multiplier="identity" name="lo_omni_2" near_range="0" spot_angle_end="0" spot_angle_start="0"/>
+					<table clipping_values="10000 -10000 0" color="1 0.858824 0.576471" enabled="true" falloff_exponent="4" far_range="150" multiplier="@IDbca13ba1d306f87b@" name="lo_omni_1" near_range="0" spot_angle_end="1" spot_angle_start="1"/>
+					<table clipping_values="10000 -10000 0" color="1 0.861 0.584" enabled="true" falloff_exponent="4" far_range="150" multiplier="@IDbca13ba1d306f87b@" name="lo_omni_2" near_range="0" spot_angle_end="0" spot_angle_start="0"/>
 				</lights>
 			</unit_data>
 		</table>
@@ -20105,6 +20105,12 @@
 		</table>
 		<table>
 			<unit_data _prev_pos="2090 3450 640" _prev_rot="-0.5 0.5 -0.5 -0.5" continent="world" disable_on_ai_graph="true" local_pos="0 0 0" local_rot="0 0 0 1" name="units/world/architecture/secret_stash/props/secret_stash_pipe_ground_2_short" name_id="secret_stash_pipe_ground_2_short_007_003_powerApipes" position="2090 3450 640" rotation="0.5 -0.5 0.5 0.5" unit_id="106465"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1100 3035 130" _prev_rot="0.5 -0.5 0.5 -0.5" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="interact_enable" name="units/pd2_dlc_dah/props/dah_prop_control_device_keycard_reader/dah_prop_control_device_keycard_reader" name_id="dah_prop_control_device_keycard_reader_001" position="1100 3035 130" rotation="-0.5 0.5 -0.5 0.5" unit_id="106466"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="480 3381 105" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="disable_interaction" name="units/payday2/pickups/gen_pku_keycard/gen_pku_keycard" name_id="gen_pku_keycard_002" position="482 3383 107" rotation="0 0 -0.707107 -0.707107" unit_id="106467"/>
 		</table>
 	</statics>
 	<values>

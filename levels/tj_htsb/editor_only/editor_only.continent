@@ -1094,7 +1094,7 @@
 			<unit_data _prev_pos="0 5200 5000" _prev_rot="0 0 0 -1" continent="editor_only" local_pos="0 0 0" local_rot="0 0 0 1" name="units/test/jocke/plane_black_temp" name_id="plane_black_temp_016" position="0 6300 5000" rotation="0 0 0 -1" unit_id="200232"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="1000 5200 5000" _prev_rot="0 0 0 -1" continent="editor_only" local_pos="1000 0 0" local_rot="0 0 0 1" name="units/test/jocke/plane_black_temp" name_id="plane_black_temp_017" position="1000 6300 5000" rotation="0 0 0 -1" unit_id="200233"/>
+			<unit_data _prev_pos="1000 6300 5000" _prev_rot="0 0 0 -1" continent="editor_only" local_pos="0 0 0" local_rot="0 0 0 1" name="units/test/jocke/plane_black_temp" name_id="plane_black_temp_017" position="1000 6300 5000" rotation="0 0 0 -1" unit_id="200233"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="400 5600 5000" _prev_rot="0 0 0 -1" continent="editor_only" local_pos="400 400 0" local_rot="0 0 0 1" name="units/dev_tools/editable_text_short/editable_text_short" name_id="editable_text_short_019" position="400 6700 5000" rotation="0 0 0 -1" unit_id="200234">
