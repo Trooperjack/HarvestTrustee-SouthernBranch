@@ -208,6 +208,12 @@
 		<table>
 			<unit_data _prev_pos="260 4790 -420" _prev_rot="0.707107 0 0 -0.707107" continent="shadow_casters" local_pos="-2400 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/shadow_caster_10x10" name_id="shadow_caster_10x10_031" position="260 4790 -400" rotation="0.707107 0 0 -0.707107" unit_id="500068"/>
 		</table>
+		<table>
+			<unit_data _prev_pos="3310 6700 -400" _prev_rot="0.5 0.5 -0.5 -0.5" continent="shadow_casters" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/shadow_caster_10x10" name_id="shadow_caster_10x10_032" position="3310 6600 -400" rotation="0.5 0.5 -0.5 -0.5" unit_id="500069"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="3310 6600 -400" _prev_rot="0.5 0.5 -0.5 -0.5" continent="shadow_casters" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/shadow_caster_10x10" name_id="shadow_caster_10x10_033" position="3310 7100 -400" rotation="0.5 0.5 -0.5 -0.5" unit_id="500070"/>
+		</table>
 	</statics>
 	<values>
 		<workviews/>

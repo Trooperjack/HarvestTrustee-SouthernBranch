@@ -388,10 +388,34 @@
 		<unit path="units/pd2_dlc_short/props/gen_fbi_usb_stick/gen_fbi_usb_stick" unload="true"/>
 	</add>
 	<add path="units/pd2_dlc_dah/props/dah_prop_control_device_keycard_reader/dah_prop_control_device_keycard_reader" type="unit">
-		<unit path="units/pd2_dlc_dah/props/dah_prop_control_device_keycard_reader/dah_prop_control_device_keycard_reader" unload="true"/>
-		<object path="units/pd2_dlc_dah/props/dah_prop_control_device_keycard_reader/dah_prop_control_device_keycard_reader" unload="true"/>
-		<material_config path="units/pd2_mcmansion/props/mcm_prop_panicroom/mcm_prop_panicroom_controldevice_retinascanner" unload="true"/>
-		<sequence_manager path="units/pd2_dlc_dah/props/dah_prop_control_device_keycard_reader/dah_prop_control_device_keycard_reader" unload="true"/>
 		<bnk path="soundbanks/regular_sfx" unload="true"/>
+		<material_config path="units/pd2_mcmansion/props/mcm_prop_panicroom/mcm_prop_panicroom_controldevice_retinascanner" unload="true"/>
+		<object path="units/pd2_dlc_dah/props/dah_prop_control_device_keycard_reader/dah_prop_control_device_keycard_reader" unload="true"/>
+		<sequence_manager path="units/pd2_dlc_dah/props/dah_prop_control_device_keycard_reader/dah_prop_control_device_keycard_reader" unload="true"/>
+		<unit path="units/pd2_dlc_dah/props/dah_prop_control_device_keycard_reader/dah_prop_control_device_keycard_reader" unload="true"/>
+	</add>
+	<add path="units/payday2/props/bnk_prop_phone/bnk_prop_phone" type="unit">
+		<material_config path="units/payday2/props/bnk_prop_phone/bnk_prop_phone" unload="true"/>
+		<object path="units/payday2/props/bnk_prop_phone/bnk_prop_phone" unload="true"/>
+		<sequence_manager path="units/payday2/props/bnk_prop_phone/bnk_prop_phone" unload="true"/>
+		<unit path="units/payday2/props/bnk_prop_phone/bnk_prop_phone" unload="true"/>
+	</add>
+	<add path="units/dev_tools/interaction_use_files/interaction_use_files" type="unit">
+		<material_config path="units/dev_tools/invisible_interaction_searching/invisible_interaction_searching" unload="true"/>
+		<object path="units/dev_tools/interaction_use_files/interaction_use_files" unload="true"/>
+		<sequence_manager path="units/dev_tools/interaction_use_files/interaction_use_files" unload="true"/>
+		<unit path="units/dev_tools/interaction_use_files/interaction_use_files" unload="true"/>
+	</add>
+	<add path="units/dev_tools/invisible_interaction_searching/invisible_interaction_searching" type="unit">
+		<material_config path="units/dev_tools/invisible_interaction_searching/invisible_interaction_searching" unload="true"/>
+		<object path="units/dev_tools/invisible_interaction_searching/invisible_interaction_searching" unload="true"/>
+		<sequence_manager path="units/dev_tools/invisible_interaction_searching/invisible_interaction_searching" unload="true"/>
+		<unit path="units/dev_tools/invisible_interaction_searching/invisible_interaction_searching" unload="true"/>
+	</add>
+	<add path="units/dev_tools/invisible_interaction_searching/invisible_interaction_searching_false" type="unit">
+		<unit path="units/dev_tools/invisible_interaction_searching/invisible_interaction_searching_false" unload="true"/>
+		<object path="units/dev_tools/invisible_interaction_searching/invisible_interaction_searching_false" unload="true"/>
+		<material_config path="units/dev_tools/invisible_interaction_searching/invisible_interaction_searching" unload="true"/>
+		<sequence_manager path="units/dev_tools/invisible_interaction_searching/invisible_interaction_searching" unload="true"/>
 	</add>
 </table>
