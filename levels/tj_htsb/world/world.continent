@@ -3570,7 +3570,7 @@
 			<unit_data _prev_pos="425 3632 0" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/payday2/props/off_prop_officehigh_drawer/off_prop_officehigh_drawer_standard_large_glass_doors" name_id="off_prop_officehigh_drawer_standard_large_glass_doors_002" position="425 3635 0" rotation="0 0 -0.707107 -0.707107" unit_id="101329"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="450 3410 100" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="-10 -50 100" local_rot="0 0 0.707107 -0.707107" mesh_variation="activate_door" name="units/payday2/equipment/gen_interactable_sec_safe_05x05/gen_interactable_sec_safe_05x05" name_id="gen_interactable_sec_safe_05x05_001" position="460 3410 100" rotation="0 0 -0.707107 -0.707107" unit_id="101330"/>
+			<unit_data _prev_pos="460 3410 150" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="activate_door" name="units/payday2/equipment/gen_interactable_sec_safe_05x05/gen_interactable_sec_safe_05x05" name_id="gen_interactable_sec_safe_05x05_001" position="460 3410 100" rotation="0 0 -0.707107 -0.707107" unit_id="101330"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="710 3940 300" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/world/props/mansion/man_prop_int_lampcellarceiling/man_prop_int_lampcellarceiling" name_id="man_prop_int_lampcellarceiling_001" position="700 3940 300" rotation="0 0 -0.707107 -0.707107" unit_id="101331">
@@ -4515,7 +4515,7 @@
 			<unit_data _prev_pos="1200 3117 0" _prev_rot="0 0 0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/payday2/props/gen_prop_square_drop_marker_4x15/gen_prop_square_drop_marker_4x15" name_id="gen_prop_square_drop_marker_4x15_001" position="1180 3117 0" rotation="0 0 0.707107 -0.707107" unit_id="101628"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="1500 2650 -650" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/payday2/vehicles/air_vehicle_blackhawk/vehicle_blackhawk" name_id="vehicle_blackhawk_001" position="1500 2650 -650" rotation="0 0 0 -1" unit_id="101629"/>
+			<unit_data _prev_pos="1500 2650 -650" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="chew" name="units/payday2/vehicles/air_vehicle_blackhawk/vehicle_blackhawk" name_id="vehicle_blackhawk_001" position="1500 2650 -650" rotation="-0 0 -0 -1" unit_id="101629"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="1330 3120 300" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/world/props/mansion/man_prop_int_lampcellarceiling/man_prop_int_lampcellarceiling" name_id="man_prop_int_lampcellarceiling_004" position="1320 3120 300" rotation="0 0 -0.707107 -0.707107" unit_id="101627">
@@ -20882,6 +20882,15 @@
 		</table>
 		<table>
 			<unit_data _prev_pos="-200 4155 0" _prev_rot="0 0 0 -1" continent="world" disable_collision="true" disable_on_ai_graph="true" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mcmansion/props/mcm_prop_garden_bush_green/mcm_prop_garden_bush_green_b_var1" name_id="mcm_prop_garden_bush_green_b_var1_012" position="-200 4155 5" rotation="0 0 0 -1" unit_id="106718"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="890 3050 700" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/pd2_indiana/props/gen_prop_security_timer/gen_prop_security_timer" name_id="gen_prop_security_timer_002" position="890 3050 700" rotation="0 0 -0.707107 -0.707107" unit_id="106719"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="482 3383 108" _prev_rot="0 0 0.87462 0.48481" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="disable_interaction" name="units/payday2/pickups/gen_pku_keycard/gen_pku_keycard" name_id="gen_pku_keycard_003" position="482 3383 108" rotation="0 0 -0.87462 -0.48481" unit_id="106720"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1300 -27500 2100" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/pd2_dlc_drive/vehicles/helicopter_cops_turret/helicopter_cops_turret" name_id="helicopter_cops_turret_001" position="1300 -27500 2100" rotation="-0 0 -0 -1" unit_id="106721"/>
 		</table>
 	</statics>
 	<values>

@@ -71,5 +71,8 @@
 	"tj_htsb_memeVault_goats_objective" : "Secure all the goats from the vault in the Harvest & Trustee: Southern Branch job on the Overkill difficulty or above.",
 	"tj_htsb_copApartment_name" : "Cop Apartments",
 	"tj_htsb_copApartment_desc" : "",
-	"tj_htsb_copApartment_objective" : "Save the criminal from the cops in the Harvest & Trustee: Southern Branch job on the Overkill difficulty or above."
+	"tj_htsb_copApartment_objective" : "Save the criminal from the cops in the Harvest & Trustee: Southern Branch job on the Overkill difficulty or above.",
+	"tj_htsb_kingOfTheHill_name" : "King of the Hill",
+	"tj_htsb_kingOfTheHill_desc" : "",
+	"tj_htsb_kingOfTheHill_objective" : "In the Harvest & Trustee: Southern Branch job, have all players holdout on the bank roof for 5 minutes while Captain Winters is present on the level on the Mayhem difficulty or above. Leaving the bank roof or going indoors will reset the timer."
 }
