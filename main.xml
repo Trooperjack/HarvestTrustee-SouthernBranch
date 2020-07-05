@@ -12,6 +12,7 @@
 		<achievement icon="guis/textures/mods/CustomAchievement/tj_htsb/tj_htsb_memeVault_goats" id="tj_htsb_memeVault_goats" rank="4"/>
 		<achievement icon="guis/textures/mods/CustomAchievement/tj_htsb/tj_htsb_copApartment" id="tj_htsb_copApartment" rank="3"/>
 		<achievement icon="guis/textures/mods/CustomAchievement/tj_htsb/tj_htsb_kingOfTheHill" id="tj_htsb_kingOfTheHill" rank="3"/>
+		<achievement icon="guis/textures/mods/CustomAchievement/tj_htsb/tj_htsb_kitcoin" id="tj_htsb_kitcoin" rank="3"/>
 	</Achievements>
 	<AssetUpdates id="-1" provider="modworkshop" use_local_dir="true" version="1"/>
 	<Hooks directory="hooks">

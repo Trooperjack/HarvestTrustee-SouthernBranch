@@ -119,6 +119,13 @@
 		<object force="true" path="RAID_World_War_II/units/vanilla/occluders/occluder_plane_double_173_25x30" unload="true"/>
 		<unit force="true" path="RAID_World_War_II/units/vanilla/occluders/occluder_plane_double_173_25x30" unload="true"/>
 	</add>
+	<add path="units/pku_kitcoin/pku_kitcoin" type="unit">
+		<material_config force="true" path="units/pku_kitcoin/pku_kitcoin" unload="true"/>
+		<object force="true" path="units/pku_kitcoin/pku_kitcoin" unload="true"/>
+		<unit force="true" path="units/pku_kitcoin/pku_kitcoin" unload="true"/>
+		<model force="true" path="units/pku_kitcoin/pku_kitcoin" unload="true"/>
+		<sequence_manager force="true" path="units/pku_kitcoin/pku_kitcoin" unload="true"/>
+	</add>
 	<add path="units/world/props/apartment/vent_tunnel/vent_tunnel_straight" type="unit">
 		<material_config force="true" path="units/world/props/apartment/vent_tunnel/vent_tunnel" unload="true"/>
 		<object force="true" path="units/world/props/apartment/vent_tunnel/vent_tunnel_straight" unload="true"/>
