@@ -1,4 +1,4 @@
-<table name="HarvestTrustee_SouthernBranch">
+<table name="Harvest and Trustee - Southern Branch">
 	<Achievements banner="guis/textures/mods/CustomAchievement/tj_htsb/tj_htsb_banner" icon="guis/textures/mods/CustomAchievement/tj_htsb/tj_htsb_pack" id="tj_htsb_achievements">
 		<achievement icon="guis/textures/mods/CustomAchievement/tj_htsb/tj_htsb_deathSentence" id="tj_htsb_deathSentence" rank="4"/>
 		<achievement icon="guis/textures/mods/CustomAchievement/tj_htsb/tj_htsb_deathWish" id="tj_htsb_deathWish" rank="3"/>
@@ -19,9 +19,11 @@
 		<hook file="guitweakdata.lua" source_file="lib/tweak_data/guitweakdata"/>
 		<hook file="levelstweakdata.lua" source_file="lib/tweak_data/tweakdatapd2"/>
 	</Hooks>
-	<Localization default="english.txt" directory="loc"/>
+	<Localization default="english.txt" directory="loc">
+		<loc file="english.txt" language="english"/>
+	</Localization>
 	<contact assets_gui="guis/mission_briefing/preload_contact_bain" id="trooperjack" name_id="heist_contact_trooperjack" package="packages/contact_bain"/>
-	<level ai_group_type="America" briefing_dialog="Play_pln_branchbank_random_stage1_brief" cube="cube_apply_heist_bank" ghost_bonus="0.1" id="tj_htsb" intro_event="Play_pln_branchbank_random_a_intro_a" max_bags="20">
+	<level ai_group_type="America" briefing_dialog="Play_pln_branchbank_random_stage1_brief" cube="cube_apply_heist_bank" ghost_bonus="0.1" id="tj_htsb" intro_event="Play_pln_branchbank_random_a_intro_a" max_bags="20" orig_id="tj_htsb">
 		<add file="levels/tj_htsb/add.xml"/>
 		<assets>
 			<asset name="ammo_bag"/>
@@ -104,6 +106,7 @@
 			<value_node value="cn_branchbank2"/>
 			<value_node value="cn_branchbank3"/>
 		</crimenet_videos>
+		<debrief_event/>
 		<experience_mul>
 			<value_node value="1"/>
 			<value_node value="1"/>
