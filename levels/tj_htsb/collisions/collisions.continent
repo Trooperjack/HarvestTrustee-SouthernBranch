@@ -499,6 +499,12 @@
 		<table>
 			<unit_data _prev_pos="-724.721 -1007.77 0" _prev_rot="0 0 0.906308 -0.422618" continent="collisions" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/dev_bag_collision/dev_bag_collision_1x3m" name_id="dev_bag_collision_1x3m_017" only_visible_in_editor="true" position="-724.721 -1007.77 0" rotation="0 0 0.906308 -0.422618" unit_id="400165"/>
 		</table>
+		<table>
+			<unit_data _prev_pos="1000 5510 100" _prev_rot="0 0 0.707107 -0.707107" continent="collisions" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/dev_bag_collision/dev_bag_collision_1x3m" name_id="dev_bag_collision_1x3m_018" only_visible_in_editor="true" position="1000 5510 100" rotation="0 0 0.707107 -0.707107" unit_id="400166"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1000 5510 100" _prev_rot="0 0 0.707107 -0.707107" continent="collisions" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/dev_bag_collision/dev_bag_collision_1x3m" name_id="dev_bag_collision_1x3m_019" only_visible_in_editor="true" position="900 5510 100" rotation="0 0 0.707107 -0.707107" unit_id="400167"/>
+		</table>
 	</statics>
 	<values>
 		<workviews/>

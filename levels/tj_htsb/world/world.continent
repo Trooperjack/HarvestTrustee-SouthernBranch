@@ -5252,7 +5252,7 @@
 			<unit_data _prev_pos="2000 4500 0" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/str_prop_street_lamppost/str_prop_street_lamppost_single" name_id="str_prop_street_lamppost_single_007" position="1950 4500 0" rotation="0 0 0 -1" unit_id="101418"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="950 5510 0" _prev_rot="0 0 0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/lcm_b/lcm_b_ext_storefront_door_a" name_id="lcm_b_ext_storefront_door_a_001" position="950 5510 100" rotation="0 0 0.707107 -0.707107" unit_id="101419"/>
+			<unit_data _prev_pos="952.402 5520.16 100" _prev_rot="0 0 -0.5 -0.866025" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/lcm_b/lcm_b_ext_storefront_door_a" name_id="lcm_b_ext_storefront_door_a_001" position="951.902 5519.29 100" rotation="0 0 -0.5 -0.866025" unit_id="101419"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="1750 5510 0" _prev_rot="0 0 0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/lcm_b/lcm_b_ext_storefront_door_a" name_id="lcm_b_ext_storefront_door_a_002" position="1750 5510 100" rotation="0 0 0.707107 -0.707107" unit_id="101832"/>
@@ -6165,7 +6165,7 @@
 			<unit_data _prev_pos="-1950 4525 150" _prev_rot="0 -0.707107 0 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="disabled" name="units/payday2/props/str_prop_com_barrier_keypad/str_prop_com_barrier_keypad" name_id="str_prop_com_barrier_keypad_002" position="-1950 4525 150" rotation="0 -0.707107 0 -0.707107" unit_id="102179"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-1815 4768 290" _prev_rot="0 0 1 -4.37114e-008" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="close" name="units/payday2/props/lcm_prop_securitydoor/lcm_prop_securitydoor_01" name_id="lcm_prop_securitydoor_01_001" position="-1815 4768 290" rotation="0 0 1 -4.37114e-008" unit_id="102180"/>
+			<unit_data _prev_pos="-1815 4768 100" _prev_rot="0 0 1 -4.37114e-008" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="close" name="units/payday2/props/lcm_prop_securitydoor/lcm_prop_securitydoor_01" name_id="lcm_prop_securitydoor_01_001" position="-1815 4768 300" rotation="0 0 1 -4.37114e-008" unit_id="102180"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="-3150 -2350 100" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/com_ext_gallery/com_ext_gallery_front" name_id="com_ext_gallery_front_001" position="-3150 -2350 100" rotation="0 0 -0.707107 -0.707107" unit_id="102181"/>
@@ -20873,6 +20873,36 @@
 		</table>
 		<table>
 			<unit_data _prev_pos="130 3412 0" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/world/props/trashcan/trash_dustbin_01" name_id="trash_dustbin_01_016" position="130 3405 0" rotation="0 0 0 -1" unit_id="105300"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-2350 6470 300" _prev_rot="0 0 1 -4.37114e-008" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/payday2/equipment/gen_equipment_security_camera/gen_equipment_security_camera" name_id="gen_equipment_security_camera_013" position="-2350 6470 300" rotation="0 0 1 -4.37114e-008" unit_id="101374"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-3190 6435 350" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/payday2/equipment/gen_equipment_security_camera/gen_equipment_security_camera" name_id="gen_equipment_security_camera_014" position="-3190 6435 350" rotation="0 0 -0.707107 -0.707107" unit_id="105301"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-3190 7405 350" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/payday2/equipment/gen_equipment_security_camera/gen_equipment_security_camera" name_id="gen_equipment_security_camera_015" position="-3190 7405 350" rotation="0 0 -0.707107 -0.707107" unit_id="105373"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-1310 4720 220" _prev_rot="0 0 0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/payday2/equipment/gen_equipment_security_camera/gen_equipment_security_camera" name_id="gen_equipment_security_camera_016" position="-1310 4720 220" rotation="0 0 0.707107 -0.707107" unit_id="105374"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="800 5900 75" _prev_rot="1 0 0 4.37114e-008" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_floor_4x4m_a" name_id="mkp_int_floor_4x4m_a_007" position="850 5900 75" rotation="1 0 0 4.37114e-008" unit_id="105375"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="850 5900 75.0001" _prev_rot="1 0 0 4.37114e-008" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_floor_4x4m_a" name_id="mkp_int_floor_4x4m_a_013" position="450 5900 75" rotation="1 0 0 4.37114e-008" unit_id="105384"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="450 5900 75.0001" _prev_rot="1 0 0 4.37114e-008" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_floor_4x4m_a" name_id="mkp_int_floor_4x4m_a_014" position="450 6300 75" rotation="1 0 0 4.37114e-008" unit_id="105385"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="450 6300 75.0001" _prev_rot="1 0 0 4.37114e-008" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_floor_4x4m_a" name_id="mkp_int_floor_4x4m_a_015" position="850 6300 75" rotation="1 0 0 4.37114e-008" unit_id="105386"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1060 5955 120" _prev_rot="0 0 0.707107 -0.707107" continent="world" disable_on_ai_graph="true" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/bnk_prop_branch1/bnk_prop_branch1_separator" name_id="bnk_prop_branch1_separator_014" position="1060 5955 120" rotation="0 0 0.707107 -0.707107" unit_id="105392"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="980 5945 120" _prev_rot="0 0 0.707107 -0.707107" continent="world" disable_on_ai_graph="true" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/bnk_prop_branch1/bnk_prop_branch1_separator" name_id="bnk_prop_branch1_separator_015" position="1010 5945 120" rotation="0 0 0.707107 -0.707107" unit_id="105393"/>
 		</table>
 	</statics>
 	<values>
