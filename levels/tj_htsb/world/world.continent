@@ -20904,6 +20904,9 @@
 		<table>
 			<unit_data _prev_pos="980 5945 120" _prev_rot="0 0 0.707107 -0.707107" continent="world" disable_on_ai_graph="true" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/bnk_prop_branch1/bnk_prop_branch1_separator" name_id="bnk_prop_branch1_separator_015" position="1010 5945 120" rotation="0 0 0.707107 -0.707107" unit_id="105393"/>
 		</table>
+		<table>
+			<unit_data _prev_pos="150 -545 100" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/payday2/props/com_prop_store_cashregister_low/com_prop_store_cashregister_low" name_id="com_prop_store_cashregister_low_007" position="150 -245 100" rotation="0 0 0 -1" unit_id="105622"/>
+		</table>
 	</statics>
 	<values>
 		<workviews/>
