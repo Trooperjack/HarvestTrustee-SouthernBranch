@@ -20907,6 +20907,39 @@
 		<table>
 			<unit_data _prev_pos="150 -545 100" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/payday2/props/com_prop_store_cashregister_low/com_prop_store_cashregister_low" name_id="com_prop_store_cashregister_low_007" position="150 -245 100" rotation="0 0 0 -1" unit_id="105622"/>
 		</table>
+		<table>
+			<unit_data _prev_pos="8100 5640 800" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/world/street/street_bench/street_bench" name_id="street_bench_043" position="8100 5600 800" rotation="0 0 -0.707107 -0.707107" unit_id="105762"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="8100 5600 800" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/world/street/street_bench/street_bench" name_id="street_bench_046" position="8100 5800 800" rotation="0 0 -0.707107 -0.707107" unit_id="105763"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="8310 5350 800" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="state_door_open" name="units/payday2/equipment/gen_interactable_door_reinforced/gen_interactable_door_reinforced" name_id="gen_interactable_door_reinforced_004_bankB020" position="8300 5350 800" rotation="0 0 -0.707107 -0.707107" unit_id="105764"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-630 -160 0" _prev_rot="-0 0 -0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/dev_door_blocker/dev_door_blocker_1x1x3" name_id="dev_door_blocker_1x1x3_006_coffeeShop" only_visible_in_editor="true" position="-630 -200 0" rotation="-0 0 -0 -1" unit_id="105765"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-630 -200 0" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/dev_door_blocker/dev_door_blocker_1x1x3" name_id="dev_door_blocker_1x1x3_006_coffeeShop" only_visible_in_editor="true" position="-550 -120 0" rotation="-0 0 -0 -1" unit_id="105766"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-680 -1300 0" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/dev_door_blocker/dev_door_blocker_1x1x3" name_id="dev_door_blocker_1x1x3_006_coffeeShop001" only_visible_in_editor="true" position="-680 -1300 0" rotation="0 0 0 -1" unit_id="105767"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-680 -1200 0" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/dev_door_blocker/dev_door_blocker_1x1x3" name_id="dev_door_blocker_1x1x3_006_coffeeShop002" only_visible_in_editor="true" position="-680 -1200 0" rotation="0 0 0 -1" unit_id="105768"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-3100 -2380 100" _prev_rot="-0 0 -0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/dev_door_blocker/dev_door_blocker_1x1x3" name_id="dev_door_blocker_1x1x3_006_superMarket" only_visible_in_editor="true" position="-3100 -2380 100" rotation="-0 0 -0 -1" unit_id="105769"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-3000 -2380 100" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/dev_door_blocker/dev_door_blocker_1x1x3" name_id="dev_door_blocker_1x1x3_006_superMarket001" only_visible_in_editor="true" position="-3000 -2380 100" rotation="0 0 0 -1" unit_id="105886"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-3400 -2380 100" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/dev_door_blocker/dev_door_blocker_1x1x3" name_id="dev_door_blocker_1x1x3_006_superMarket002" only_visible_in_editor="true" position="-3400 -2380 100" rotation="0 0 0 -1" unit_id="105887"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-3300 -2380 100" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/dev_door_blocker/dev_door_blocker_1x1x3" name_id="dev_door_blocker_1x1x3_006_superMarket003" only_visible_in_editor="true" position="-3300 -2380 100" rotation="0 0 0 -1" unit_id="105888"/>
+		</table>
 	</statics>
 	<values>
 		<workviews/>
