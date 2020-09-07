@@ -1,0 +1,3 @@
+"hud_carry_kitteh" : "Kitteh",
+"hud_int_hold_take_kitteh" : "Hold $BTN_INTERACT to bag the Kitteh",
+"hud_action_taking_kitteh" : "Taking Kitteh",

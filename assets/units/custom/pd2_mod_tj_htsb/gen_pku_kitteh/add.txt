@@ -1,0 +1,7 @@
+<add path="units/custom/pd2_mod_tj_htsb/gen_pku_kitteh/gen_pku_kitteh" type="unit">
+	<material_config force="true" path="units/custom/pd2_mod_tj_htsb/gen_pku_kitteh/gen_pku_kitteh" unload="true"/>
+	<object force="true" path="units/custom/pd2_mod_tj_htsb/gen_pku_kitteh/gen_pku_kitteh" unload="true"/>
+	<unit force="true" path="units/custom/pd2_mod_tj_htsb/gen_pku_kitteh/gen_pku_kitteh" unload="true"/>
+	<model force="true" path="units/custom/pd2_mod_tj_htsb/gen_pku_kitteh/gen_pku_kitteh" unload="true"/>
+	<sequence_manager force="true" path="units/custom/pd2_mod_tj_htsb/gen_pku_kitteh/gen_pku_kitteh" unload="true"/>
+</add>
