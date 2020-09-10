@@ -21049,9 +21049,6 @@
 			<unit_data _prev_pos="3850 5250 0" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/str_prop_street_lamppost/str_prop_street_lamppost_single" name_id="str_prop_street_lamppost_single_079" position="3850 5250 0" rotation="0 0 0 -1" unit_id="105837"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="3250 5600 0" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/str_prop_street_lamppost/str_prop_street_lamppost_single" name_id="str_prop_street_lamppost_single_089" position="3250 5600 190" rotation="0 0 0 -1" unit_id="105838"/>
-		</table>
-		<table>
 			<unit_data _prev_pos="3850 5250 0" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/str_prop_street_lamppost/str_prop_street_lamppost_single" name_id="str_prop_street_lamppost_single_107" position="3850 8450 0" rotation="0 0 0 -1" unit_id="105854"/>
 		</table>
 		<table>
@@ -21674,6 +21671,57 @@
 		</table>
 		<table>
 			<unit_data _prev_pos="2810 -2500 -50" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/dev_door_blocker/dev_door_blocker_1x1x3" name_id="dev_door_blocker_1x1x3_001_secret001" only_visible_in_editor="true" position="2820 -2500 -50" rotation="0 0 0 -1" unit_id="107041"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="3180 -2430 -50" _prev_rot="-0 0 -0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/world/props/oil_stains_decal/oil_stains_decal_03" name_id="oil_stains_decal_03_001" position="3180 -2430 -50" rotation="-0 0 -0 -1" unit_id="101646"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="3180 -2430 -50" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/world/props/oil_stains_decal/oil_stains_decal_03" name_id="oil_stains_decal_03_002" position="2750 -2170 -50" rotation="0 0 0 -1" unit_id="101647"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-394.512 508.888 -19.9991" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/str/str_ext_deco_asphalt_patch_a" name_id="str_ext_deco_asphalt_patch_a_003" position="-394.512 508.888 -19.9991" rotation="0 0 0 -1" unit_id="101648"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="605.181 1054.83 -19.9991" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/str/str_ext_deco_asphalt_patch_b" name_id="str_ext_deco_asphalt_patch_b_002" position="605.181 1054.83 -19.9991" rotation="0 0 0 -1" unit_id="101649"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="2648.14 506.03 -19.9999" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/str/str_ext_deco_asphalt_patch_c" name_id="str_ext_deco_asphalt_patch_c_001" position="2648.14 506.03 -19.9999" rotation="0 0 0 -1" unit_id="101650"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="4244.03 1058.76 -19.9991" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/str/str_ext_deco_asphalt_patch_d" name_id="str_ext_deco_asphalt_patch_d_001" position="4244.03 1058.76 -19.9991" rotation="0 0 0 -1" unit_id="101651"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-599.63 1085.98 -19" _prev_rot="-0 0 -0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/world/architecture/street/decals/ground/decal_ground_manhole_big" name_id="decal_ground_manhole_big_001" position="-599.63 1085.98 -19" rotation="-0 0 -0 -1" unit_id="101652"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1860.37 565.984 -20" _prev_rot="-0 0 -0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/world/architecture/street/decals/ground/decal_ground_manhole_big" name_id="decal_ground_manhole_big_002" position="1860.37 565.984 -19" rotation="-0 0 -0 -1" unit_id="101653"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1860.37 565.984 -19" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/world/architecture/street/decals/ground/decal_ground_manhole_big" name_id="decal_ground_manhole_big_003" position="5120.37 1035.98 -19" rotation="0 0 0 -1" unit_id="101654"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-599.63 1085.98 -19" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/world/architecture/street/decals/ground/decal_ground_manhole_big" name_id="decal_ground_manhole_big_004" position="-1659.63 -484.016 -19" rotation="0 0 0 -1" unit_id="101655"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-1659.63 -484.016 -19" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/world/architecture/street/decals/ground/decal_ground_manhole_big" name_id="decal_ground_manhole_big_005" position="-3029.63 575.984 -19" rotation="0 0 0 -1" unit_id="101656"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-3029.63 575.984 -19" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/world/architecture/street/decals/ground/decal_ground_manhole_big" name_id="decal_ground_manhole_big_006" position="-5719.63 1055.98 -19" rotation="0 0 0 -1" unit_id="101657"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-2531.86 256.03 -20" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/str/str_ext_deco_asphalt_patch_c" name_id="str_ext_deco_asphalt_patch_c_002" position="-2731.86 1066.03 -20" rotation="0 0 0 -1" unit_id="101658"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-394.512 508.888 -19.9991" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/str/str_ext_deco_asphalt_patch_a" name_id="str_ext_deco_asphalt_patch_a_004" position="-4174.51 538.888 -19.999" rotation="0 0 0 -1" unit_id="101659"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-3694.82 1054.83 -19.9991" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/str/str_ext_deco_asphalt_patch_b" name_id="str_ext_deco_asphalt_patch_b_003" position="-5654.82 594.827 -19.9991" rotation="0 0 0 -1" unit_id="101660"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="2990 10750 890" _prev_rot="-0 0 -0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/world/architecture/hospital/props/rooftop/acvent/acvent02" name_id="acvent02_007" position="3000 10750 890" rotation="-0 0 -0 -1" unit_id="101661"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="2120 10750 890" _prev_rot="0 0 -8.74228e-008 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/world/architecture/diamondheist/props/diamondheist_roof_gen_large_01" name_id="diamondheist_roof_gen_large_01_018" position="2150 10750 890" rotation="0 0 -8.74228e-008 -1" unit_id="101662"/>
 		</table>
 	</statics>
 	<values>

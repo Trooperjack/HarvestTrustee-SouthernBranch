@@ -119,6 +119,30 @@
 		<object force="true" path="RAID_World_War_II/units/vanilla/occluders/occluder_plane_double_173_25x30" unload="true"/>
 		<unit force="true" path="RAID_World_War_II/units/vanilla/occluders/occluder_plane_double_173_25x30" unload="true"/>
 	</add>
+	<add path="units/custom/pd2_mod_tj_htsb/fake_massunits/nature/pnau/pnau_brush/pnau_brush_leafs/pnau_brush_leafs_01_a" type="unit">
+		<material_config path="units/custom/pd2_mod_tj_htsb/fake_massunits/nature/pnau/pnau_brush/pnau_brush_leafs/pnau_brush_leafs" unload="true"/>
+		<object path="units/custom/pd2_mod_tj_htsb/fake_massunits/nature/pnau/pnau_brush/pnau_brush_leafs/pnau_brush_leafs_01_a" unload="true"/>
+		<unit path="units/custom/pd2_mod_tj_htsb/fake_massunits/nature/pnau/pnau_brush/pnau_brush_leafs/pnau_brush_leafs_01_a" unload="true"/>
+		<model path="units/custom/pd2_mod_tj_htsb/fake_massunits/nature/pnau/pnau_brush/pnau_brush_leafs/pnau_brush_leafs_01_a" unload="true"/>
+	</add>
+	<add path="units/custom/pd2_mod_tj_htsb/fake_massunits/nature/pnau/pnau_brush/pnau_brush_leafs/pnau_brush_leafs_01_b" type="unit">
+		<material_config path="units/custom/pd2_mod_tj_htsb/fake_massunits/nature/pnau/pnau_brush/pnau_brush_leafs/pnau_brush_leafs" unload="true"/>
+		<object path="units/custom/pd2_mod_tj_htsb/fake_massunits/nature/pnau/pnau_brush/pnau_brush_leafs/pnau_brush_leafs_01_b" unload="true"/>
+		<unit path="units/custom/pd2_mod_tj_htsb/fake_massunits/nature/pnau/pnau_brush/pnau_brush_leafs/pnau_brush_leafs_01_b" unload="true"/>
+		<model path="units/custom/pd2_mod_tj_htsb/fake_massunits/nature/pnau/pnau_brush/pnau_brush_leafs/pnau_brush_leafs_01_b" unload="true"/>
+	</add>
+	<add path="units/custom/pd2_mod_tj_htsb/fake_massunits/world/brushes/grass/grass_2x2" type="unit">
+		<material_config path="units/custom/pd2_mod_tj_htsb/fake_massunits/world/brushes/grass/grass" unload="true"/>
+		<object path="units/custom/pd2_mod_tj_htsb/fake_massunits/world/brushes/grass/grass_2x2" unload="true"/>
+		<unit path="units/custom/pd2_mod_tj_htsb/fake_massunits/world/brushes/grass/grass_2x2" unload="true"/>
+		<model path="units/custom/pd2_mod_tj_htsb/fake_massunits/world/brushes/grass/grass_2x2" unload="true"/>
+	</add>
+	<add path="units/custom/pd2_mod_tj_htsb/fake_massunits/world/brushes/grass/grass_4x4" type="unit">
+		<material_config force="true" path="units/custom/pd2_mod_tj_htsb/fake_massunits/world/brushes/grass/grass" unload="true"/>
+		<object force="true" path="units/custom/pd2_mod_tj_htsb/fake_massunits/world/brushes/grass/grass_4x4" unload="true"/>
+		<unit force="true" path="units/custom/pd2_mod_tj_htsb/fake_massunits/world/brushes/grass/grass_4x4" unload="true"/>
+		<model force="true" path="units/custom/pd2_mod_tj_htsb/fake_massunits/world/brushes/grass/grass_4x4" unload="true"/>
+	</add>
 	<add path="units/pku_kitcoin/pku_kitcoin" type="unit">
 		<cooked_physics force="true" path="units/pku_kitcoin/pku_kitcoin" unload="true"/>
 		<material_config force="true" path="units/pku_kitcoin/pku_kitcoin" unload="true"/>
