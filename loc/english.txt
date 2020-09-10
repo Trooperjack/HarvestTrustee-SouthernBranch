@@ -1,6 +1,9 @@
 {
 	"heist_contact_trooperjack" : "Trooperjack",
 	"heist_contact_trooperjack_desc" : "I like making custom heists even if it takes me forever to finish them.\n\nI also love dragons... like, REALLY love dragons.",
+	"heist_contact_pd2concepts" : "PD2Maps",
+	"heist_contact_pd2concepts_desc" : "Custom heists created as collaborations by Payday2Maps!",
+	"heist_contact_pd2concepts_crew_desc" : "Croqui42 - Level Designer \nDerSushy.exe - Designer \nTrooperjack - Level Designer\nMiamiCenter - Modder / Scripter",
 	"heist_HarvestTrustee_SouthernBranch_name" : "Harvest & Trustee: Southern Branch",
 	"heist_HarvestTrustee_SouthernBranch_brief" : "Brief text goes here.  c:",
 	"heist_tj_htsb_name" : "Harvest & Trustee: Southern Branch",
