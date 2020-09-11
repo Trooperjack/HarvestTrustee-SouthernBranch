@@ -529,6 +529,48 @@
 		<table>
 			<unit_data _prev_pos="4420 5080 380" _prev_rot="0 0 0.707107 -0.707107" continent="collisions" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/dev_bag_collision/dev_bag_collision_16x32m" name_id="dev_bag_collision_16x32m_039" only_visible_in_editor="true" position="4420 5080 380" rotation="0 0 0.707107 -0.707107" unit_id="400175"/>
 		</table>
+		<table>
+			<unit_data _prev_pos="-1160 5380 0" _prev_rot="-0 0 -0 -1" continent="collisions" local_pos="0 550 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/dev_bag_collision/dev_bag_collision_4x3m" name_id="dev_bag_collision_4x3m_029" only_visible_in_editor="true" position="-1160 5380 0" rotation="-0 0 -0 -1" unit_id="400176"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-1160 4830 0" _prev_rot="0 0 0 -1" continent="collisions" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/dev_bag_collision/dev_bag_collision_4x3m" name_id="dev_bag_collision_4x3m_030" only_visible_in_editor="true" position="-1160 4830 0" rotation="0 0 0 -1" unit_id="400177"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-1160 4830 300" _prev_rot="0 0 0 -1" continent="collisions" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/dev_bag_collision/dev_bag_collision_4x3m" name_id="dev_bag_collision_4x3m_031" only_visible_in_editor="true" position="-1160 4830 300" rotation="0 0 0 -1" unit_id="400178"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-1160 5380 300" _prev_rot="0 0 0 -1" continent="collisions" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/dev_bag_collision/dev_bag_collision_4x3m" name_id="dev_bag_collision_4x3m_032" only_visible_in_editor="true" position="-1160 5380 300" rotation="0 0 0 -1" unit_id="400179"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-1160 4830 600" _prev_rot="0 0 0 -1" continent="collisions" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/dev_bag_collision/dev_bag_collision_4x3m" name_id="dev_bag_collision_4x3m_033" only_visible_in_editor="true" position="-1160 4830 600" rotation="0 0 0 -1" unit_id="400180"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-1160 5380 300" _prev_rot="0 0 0 -1" continent="collisions" local_pos="0 550 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/dev_bag_collision/dev_bag_collision_4x3m" name_id="dev_bag_collision_4x3m_034" only_visible_in_editor="true" position="-1160 5380 600" rotation="0 0 0 -1" unit_id="400181"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-1160 5205 0" _prev_rot="0 0 -0.707107 -0.707107" continent="collisions" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/dev_bag_collision/dev_bag_collision_4x3m" name_id="dev_bag_collision_4x3m_035" only_visible_in_editor="true" position="-1160 5205 0" rotation="0 0 -0.707107 -0.707107" unit_id="400182"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-1160 5205 300" _prev_rot="0 0 -0.707107 -0.707107" continent="collisions" local_pos="-175 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/dev_bag_collision/dev_bag_collision_4x3m" name_id="dev_bag_collision_4x3m_036" only_visible_in_editor="true" position="-1160 5205 300" rotation="0 0 -0.707107 -0.707107" unit_id="400183"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-1160 5375 0" _prev_rot="0 0 -0.707107 -0.707107" continent="collisions" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/dev_bag_collision/dev_bag_collision_4x3m" name_id="dev_bag_collision_4x3m_037" only_visible_in_editor="true" position="-1160 5380 0" rotation="0 0 -0.707107 -0.707107" unit_id="400184"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-1160 5380 300" _prev_rot="0 0 -0.707107 -0.707107" continent="collisions" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/dev_bag_collision/dev_bag_collision_4x3m" name_id="dev_bag_collision_4x3m_038" only_visible_in_editor="true" position="-1160 5380 300" rotation="0 0 -0.707107 -0.707107" unit_id="400185"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-1220 5120 500" _prev_rot="0 0 0 -1" continent="collisions" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/dev_bag_collision/dev_bag_collision_4x3m" name_id="dev_bag_collision_4x3m_039" only_visible_in_editor="true" position="-1220 5120 500" rotation="0 0 0 -1" unit_id="400186"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-1200 5120 475" _prev_rot="0 0.707107 0 -0.707107" continent="collisions" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/dev_bag_collision/dev_bag_collision_4x3m" name_id="dev_bag_collision_4x3m_040" only_visible_in_editor="true" position="-1195 5120 475" rotation="0 0.707107 0 -0.707107" unit_id="400187"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-1160 5380 300" _prev_rot="0 0 -0.707107 -0.707107" continent="collisions" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/dev_bag_collision/dev_bag_collision_4x3m" name_id="dev_bag_collision_4x3m_041" only_visible_in_editor="true" position="-1160 5380 600" rotation="0 0 -0.707107 -0.707107" unit_id="400188"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-1160 5205 300" _prev_rot="0 0 -0.707107 -0.707107" continent="collisions" local_pos="-175 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/dev_bag_collision/dev_bag_collision_4x3m" name_id="dev_bag_collision_4x3m_042" only_visible_in_editor="true" position="-1160 5205 600" rotation="0 0 -0.707107 -0.707107" unit_id="400189"/>
+		</table>
 	</statics>
 	<values>
 		<workviews/>

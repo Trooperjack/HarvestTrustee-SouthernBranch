@@ -77,6 +77,8 @@
 			<value_node value="levels/narratives/elephant/chew/collision/collision"/>
 			<value_node value="levels/narratives/armadillo/arm_cro/world"/>
 			<value_node value="levels/narratives/armadillo/arm_cro/world/world"/>
+			<value_node value="levels/narratives/armadillo/arm_cro/pc_only/pc_only"/>
+			<value_node value="levels/narratives/armadillo/arm_cro/mt_temp/mt_temp"/>
 			<value_node value="levels/instances/unique/hvh/hvh_chance/world/world"/>
 			<value_node value="levels/instances/unique/pet_pet/world/world"/>
 			<value_node value="levels/instances/unique/holly_2/safe_van/world/world"/>
