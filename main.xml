@@ -16,7 +16,7 @@
 		<achievement icon="guis/textures/mods/CustomAchievement/tj_htsb/tj_htsb_kingOfTheHill" id="tj_htsb_kingOfTheHill" rank="3"/>
 		<achievement icon="guis/textures/mods/CustomAchievement/tj_htsb/tj_htsb_kitcoin" id="tj_htsb_kitcoin" rank="3"/>
 	</Achievements>
-	<AssetUpdates id="-1" provider="modworkshop" use_local_dir="true" version="1"/>
+	<AssetUpdates id="tj003htsb" is_standalone="false" provider="payday2concepts" use_local_dir="true" version="0.27"/>
 	<Hooks directory="hooks">
 		<hook file="guitweakdata.lua" source_file="lib/tweak_data/guitweakdata"/>
 		<hook file="levelstweakdata.lua" source_file="lib/tweak_data/tweakdatapd2"/>
