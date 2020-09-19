@@ -35,7 +35,7 @@
 		<texture force="true" path="guis/textures/mods/CustomAchievement/tj_htsb/tj_htsb_kitcoin"/>
 		<png force="true" path="guis/textures/mods/CustomAchievement/tj_htsb/tj_htsb_banner"/>
 	</AddFiles>
-	<AssetUpdates id="tj003htsb" is_standalone="false" provider="payday2concepts" use_local_dir="true" version="BETA 0.1"/>
+	<AssetUpdates id="tj003htsb" is_standalone="false" provider="payday2concepts" use_local_dir="true" version="BETA 0.2"/>
 	<Hooks directory="hooks">
 		<hook file="guitweakdata.lua" source_file="lib/tweak_data/guitweakdata"/>
 		<hook file="levelstweakdata.lua" source_file="lib/tweak_data/tweakdatapd2"/>
