@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<unit type="fwb" slot="20">
+	<object file="units/pickups/pickup_bank_manager_key/pickup_bank_manager_key" />
+	<network sync="spawn" />
+	<extensions>
+		<extension name="unit_data" class="ScriptUnitData" />
+		<extension name="base" class="SpecialEquipmentPickup" >
+			<var name="_special" value="bank_manager_key" />
+			<var name="_global_event" value="bankmanager_key" />
+		</extension>
+	</extensions>
+</unit> 

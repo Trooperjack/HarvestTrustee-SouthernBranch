@@ -1,4 +1,4 @@
-<table name="Harvest and Trustee - Southern Branch">
+<table image="guis/textures/mods/CustomAchievement/tj_htsb/tj_htsb_pack" name="Harvest and Trustee - Southern Branch">
 	<Achievements banner="guis/textures/mods/CustomAchievement/tj_htsb/tj_htsb_banner" icon="guis/textures/mods/CustomAchievement/tj_htsb/tj_htsb_pack" id="tj_htsb_achievements">
 		<achievement icon="guis/textures/mods/CustomAchievement/tj_htsb/tj_htsb_deathSentence_OD" id="tj_htsb_deathSentence_OD" rank="4"/>
 		<achievement icon="guis/textures/mods/CustomAchievement/tj_htsb/tj_htsb_deathSentence" id="tj_htsb_deathSentence" rank="4"/>
@@ -15,11 +15,33 @@
 		<achievement icon="guis/textures/mods/CustomAchievement/tj_htsb/tj_htsb_kingOfTheHill" id="tj_htsb_kingOfTheHill" rank="3"/>
 		<achievement icon="guis/textures/mods/CustomAchievement/tj_htsb/tj_htsb_kitcoin" id="tj_htsb_kitcoin" rank="3"/>
 	</Achievements>
+	<AddFiles directory="assets">
+		<texture force="true" path="icons/tj_htsb_broker"/>
+		<texture force="true" path="guis/tj_htsb_loading"/>
+		<texture force="true" path="guis/textures/mods/CustomAchievement/tj_htsb/tj_htsb_pack"/>
+		<texture force="true" path="guis/textures/mods/CustomAchievement/tj_htsb/tj_htsb_deathSentence_OD"/>
+		<texture force="true" path="guis/textures/mods/CustomAchievement/tj_htsb/tj_htsb_deathSentence"/>
+		<texture force="true" path="guis/textures/mods/CustomAchievement/tj_htsb/tj_htsb_deathWish"/>
+		<texture force="true" path="guis/textures/mods/CustomAchievement/tj_htsb/tj_htsb_mayhem"/>
+		<texture force="true" path="guis/textures/mods/CustomAchievement/tj_htsb/tj_htsb_overkill"/>
+		<texture force="true" path="guis/textures/mods/CustomAchievement/tj_htsb/tj_htsb_veryHard"/>
+		<texture force="true" path="guis/textures/mods/CustomAchievement/tj_htsb/tj_htsb_hard"/>
+		<texture force="true" path="guis/textures/mods/CustomAchievement/tj_htsb/tj_htsb_normal"/>
+		<texture force="true" path="guis/textures/mods/CustomAchievement/tj_htsb/tj_htsb_emptyVault"/>
+		<texture force="true" path="guis/textures/mods/CustomAchievement/tj_htsb/tj_htsb_memeVault_nukes"/>
+		<texture force="true" path="guis/textures/mods/CustomAchievement/tj_htsb/tj_htsb_memeVault_goats"/>
+		<texture force="true" path="guis/textures/mods/CustomAchievement/tj_htsb/tj_htsb_memeVault_kitteh"/>
+		<texture force="true" path="guis/textures/mods/CustomAchievement/tj_htsb/tj_htsb_kingOfTheHill"/>
+		<texture force="true" path="guis/textures/mods/CustomAchievement/tj_htsb/tj_htsb_kitcoin"/>
+		<png force="true" path="guis/textures/mods/CustomAchievement/tj_htsb/tj_htsb_banner"/>
+	</AddFiles>
 	<AssetUpdates id="tj003htsb" is_standalone="false" provider="payday2concepts" use_local_dir="true" version="BETA 0.1"/>
 	<Hooks directory="hooks">
 		<hook file="guitweakdata.lua" source_file="lib/tweak_data/guitweakdata"/>
 		<hook file="levelstweakdata.lua" source_file="lib/tweak_data/tweakdatapd2"/>
 		<hook file="interactiontweakdata.lua" source_file="lib/tweak_data/interactiontweakdata"/>
+		<hook file="tweakdata.lua" source_file="lib/tweak_data/tweakdata"/>
+		<hook file="equipmentstweakdata.lua" source_file="lib/tweak_data/equipmentstweakdata"/>
 	</Hooks>
 	<Localization default="english.txt" directory="loc">
 		<loc file="english.txt" language="english"/>
@@ -95,7 +117,7 @@
 			</mod>
 		</script_data_mods>
 	</level>
-	<narrative briefing_event="pln_branchbank_random_brf_speak" contact="pd2concepts" id="HarvestTrustee_SouthernBranch" jc="30" load_screen="guis/dlcs/pic/textures/loading/job_branchbank" region="street">
+	<narrative briefing_event="pln_branchbank_random_brf_speak" contact="pd2concepts" icon="icons/tj_htsb_broker" id="HarvestTrustee_SouthernBranch" jc="30" load_screen="guis/tj_htsb_loading" region="street">
 		<chain>
 			<table level_id="tj_htsb" type="d" type_id="heist_type_assault"/>
 		</chain>

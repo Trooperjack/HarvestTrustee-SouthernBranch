@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<dynamic_object>
+	<diesel materials="units/pickups/pickup_bank_manager_key/pickup_bank_manager_key" orientation_object="rp_key_card" />
+	<graphics>
+		<object name="g_key_card" enabled="true" />
+	</graphics>
+</dynamic_object> 

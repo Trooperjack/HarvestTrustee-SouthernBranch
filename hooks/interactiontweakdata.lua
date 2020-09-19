@@ -9,4 +9,25 @@ Hooks:PostHook( InteractionTweakData, "init", "tj_htsb_custom_interactions", fun
 		sound_done = "bar_bag_money_finished",
 		blocked_hint = "carry_block"
 	}
+	
+	self.tj_htsb_use_manager_keycard = {
+		text_id = "hud_int_tj_htsb_use_manager_keycard",
+		action_text_id = "hud_action_tj_htsb_use_manager_keycard",
+		equipment_text_id = "hud_int_tj_htsb_no_manager_keycard",
+		special_equipment = "tj_htsb_manager_keycard",
+		equipment_consume = true,
+		start_active = true,
+		timer = 0.5
+	}
+	
+	self.tj_htsb_pickup_manager_keycard = {
+		text_id = "hud_int_tj_htsb_pickup_manager_keycard",
+		sound_done = "pick_up_key_card",
+		requires_mask_off_upgrade = {
+			upgrade = "mask_off_pickup",
+			category = "player"
+		},
+		blocked_hint = "full_keycard"
+	}
+	
 end)
