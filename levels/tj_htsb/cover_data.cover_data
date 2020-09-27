@@ -30,7 +30,6 @@
 		<value_node value="201 552 -20"/>
 		<value_node value="244 -539 0"/>
 		<value_node value="-522 -284 0"/>
-		<value_node value="570 -167 0"/>
 		<value_node value="-383 -114 450"/>
 		<value_node value="482 -370 0"/>
 		<value_node value="-481 -114 450"/>
@@ -43,6 +42,7 @@
 		<value_node value="-559 -113 450"/>
 		<value_node value="-713 -141 0"/>
 		<value_node value="711 245 0"/>
+		<value_node value="204 -735 0"/>
 		<value_node value="-127 -758 0"/>
 		<value_node value="-390 -673 0"/>
 		<value_node value="-561 -543 0"/>
@@ -51,17 +51,15 @@
 		<value_node value="-137 794 -20"/>
 		<value_node value="802 157 0"/>
 		<value_node value="-253 -778 0"/>
-		<value_node value="254 -795 0"/>
 		<value_node value="392 738 -20"/>
-		<value_node value="390 -748 0"/>
 		<value_node value="-351 -786 0"/>
 		<value_node value="76 -866 0"/>
 		<value_node value="-547 -682 0"/>
 		<value_node value="798 398 -20"/>
 		<value_node value="-871 -233 0"/>
+		<value_node value="499 -765 0"/>
 		<value_node value="504 763 -20"/>
 		<value_node value="-809 -430 0"/>
-		<value_node value="559 -755 0"/>
 		<value_node value="-943 2 0"/>
 		<value_node value="905 268 0"/>
 		<value_node value="-397 -898 0"/>
@@ -230,6 +228,7 @@
 		<value_node value="-2221 553 -20"/>
 		<value_node value="-2075 975 -20"/>
 		<value_node value="2298 43 0"/>
+		<value_node value="165 2294 1"/>
 		<value_node value="-2296 -183 -4"/>
 		<value_node value="-2304 -18 0"/>
 		<value_node value="-2280 -341 -20"/>
@@ -237,13 +236,12 @@
 		<value_node value="-989 2086 0"/>
 		<value_node value="2282 377 -20"/>
 		<value_node value="-1367 1868 -6"/>
-		<value_node value="-42 2315 1"/>
 		<value_node value="1480 1736 400"/>
 		<value_node value="2305 -240 0"/>
 		<value_node value="-2000 1178 -20"/>
 		<value_node value="1538 1741 0"/>
-		<value_node value="115 2324 1"/>
 		<value_node value="1113 2004 400"/>
+		<value_node value="38 2345 1"/>
 		<value_node value="2215 778 -20"/>
 		<value_node value="477 2269 400"/>
 		<value_node value="-600 2276 0"/>
@@ -290,10 +288,10 @@
 		<value_node value="200 2531 0"/>
 		<value_node value="1641 1949 0"/>
 		<value_node value="79 2552 0"/>
-		<value_node value="-2484 -598 -20"/>
 		<value_node value="2085 1505 0"/>
 		<value_node value="-93 2574 0"/>
 		<value_node value="-658 -2495 0"/>
+		<value_node value="-2514 -598 -20"/>
 		<value_node value="-1505 2101 0"/>
 		<value_node value="-10 2561 400"/>
 		<value_node value="608 2520 0"/>
@@ -321,13 +319,13 @@
 		<value_node value="-745 2554 0"/>
 		<value_node value="-911 2502 0"/>
 		<value_node value="-2175 1550 -1"/>
-		<value_node value="-2477 -1017 -20"/>
 		<value_node value="1370 2268 400"/>
 		<value_node value="-618 2607 0"/>
 		<value_node value="209 2676 0"/>
 		<value_node value="-1989 -1810 -20"/>
 		<value_node value="990 2501 0"/>
 		<value_node value="48 2664 400"/>
+		<value_node value="-2497 -1017 -20"/>
 		<value_node value="-45 2704 0"/>
 		<value_node value="2379 -1288 0"/>
 		<value_node value="-2278 -1461 -2"/>
@@ -445,7 +443,6 @@
 		<value_node value="-95 3143 0"/>
 		<value_node value="2875 1277 -20"/>
 		<value_node value="3090 596 -20"/>
-		<value_node value="-2106 -2346 -20"/>
 		<value_node value="-2993 -1047 -20"/>
 		<value_node value="1748 2645 0"/>
 		<value_node value="164 3144 400"/>
@@ -456,7 +453,6 @@
 		<value_node value="1894 2544 400"/>
 		<value_node value="2831 1498 0"/>
 		<value_node value="3042 1012 -20"/>
-		<value_node value="-2278 -2256 -7"/>
 		<value_node value="-2644 -1819 0"/>
 		<value_node value="-1585 2798 0"/>
 		<value_node value="1410 2866 400"/>
@@ -491,7 +487,6 @@
 		<value_node value="-2045 2712 0"/>
 		<value_node value="2776 -1960 -50"/>
 		<value_node value="-3108 -1386 -20"/>
-		<value_node value="-2267 -2545 -8"/>
 		<value_node value="-957 3277 0"/>
 		<value_node value="1152 3196 401"/>
 		<value_node value="-2581 -2245 -6"/>
@@ -516,7 +511,6 @@
 		<value_node value="-41 3471 0"/>
 		<value_node value="1845 2918 401"/>
 		<value_node value="1300 3224 0"/>
-		<value_node value="-2114 -2765 -20"/>
 		<value_node value="2927 -1886 -50"/>
 		<value_node value="1764 2875 890"/>
 		<value_node value="-156 -3496 0"/>
@@ -862,12 +856,12 @@
 		<value_node value="1523 4654 0"/>
 		<value_node value="-3814 -3070 100"/>
 		<value_node value="4894 259 0"/>
+		<value_node value="4685 1452 0"/>
 		<value_node value="-4707 -1380 -20"/>
 		<value_node value="1430 4698 0"/>
 		<value_node value="2531 4220 0"/>
 		<value_node value="-1763 4604 15"/>
 		<value_node value="-4789 -1177 -20"/>
-		<value_node value="4705 1482 0"/>
 		<value_node value="-4926 256 0"/>
 		<value_node value="-2922 3987 0"/>
 		<value_node value="-2520 -4254 100"/>
@@ -952,7 +946,6 @@
 		<value_node value="-5287 -804 -20"/>
 		<value_node value="-5253 -1040 -20"/>
 		<value_node value="2626 4669 0"/>
-		<value_node value="5194 1348 0"/>
 		<value_node value="-2860 4544 0"/>
 		<value_node value="-5341 557 -20"/>
 		<value_node value="-180 5379 100"/>
@@ -972,7 +965,6 @@
 		<value_node value="-3410 -4251 100"/>
 		<value_node value="5137 1830 3"/>
 		<value_node value="-3743 -3966 100"/>
-		<value_node value="5315 1249 -20"/>
 		<value_node value="2773 4707 0"/>
 		<value_node value="-218 5464 100"/>
 		<value_node value="172 5467 100"/>
@@ -982,7 +974,6 @@
 		<value_node value="-3306 -4420 100"/>
 		<value_node value="-3045 4617 0"/>
 		<value_node value="-3137 -4564 100"/>
-		<value_node value="5388 1331 0"/>
 		<value_node value="5261 1769 3"/>
 		<value_node value="2955 4713 0"/>
 		<value_node value="-5491 -895 -20"/>
@@ -1065,9 +1056,9 @@
 		<value_node value="-3139 5433 0"/>
 		<value_node value="-408 6261 0"/>
 		<value_node value="3438 5263 0"/>
+		<value_node value="6148 1339 0"/>
 		<value_node value="-6152 -1398 -20"/>
 		<value_node value="6320 79 0"/>
-		<value_node value="6178 1339 0"/>
 		<value_node value="2860 5659 147"/>
 		<value_node value="3071 5573 100"/>
 		<value_node value="-6134 -1800 0"/>
@@ -1270,6 +1261,7 @@
 		<value_node value="5840 5567 0"/>
 		<value_node value="-8038 852 -20"/>
 		<value_node value="8053 778 -20"/>
+		<value_node value="3831 7130 0"/>
 		<value_node value="8088 334 -20"/>
 		<value_node value="-7753 -2335 0"/>
 		<value_node value="3120 7474 100"/>
@@ -1281,7 +1273,6 @@
 		<value_node value="-911 8068 0"/>
 		<value_node value="-8042 1219 -20"/>
 		<value_node value="8129 440 -20"/>
-		<value_node value="3831 7190 0"/>
 		<value_node value="4896 6516 0"/>
 		<value_node value="8027 1427 0"/>
 		<value_node value="-7075 -4051 -20"/>
@@ -1405,15 +1396,6 @@
 		<value_node value="-7778 -6896 0"/>
 	</positions>
 	<rotations>
-		<value_node value="0"/>
-		<value_node value="0"/>
-		<value_node value="0"/>
-		<value_node value="0"/>
-		<value_node value="0"/>
-		<value_node value="0"/>
-		<value_node value="0"/>
-		<value_node value="0"/>
-		<value_node value="0"/>
 		<value_node value="0"/>
 		<value_node value="0"/>
 		<value_node value="0"/>

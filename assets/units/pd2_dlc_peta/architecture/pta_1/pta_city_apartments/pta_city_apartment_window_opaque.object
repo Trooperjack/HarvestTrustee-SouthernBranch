@@ -1,0 +1,15 @@
+<dynamic_object>
+	<diesel materials="units/pd2_dlc_peta/architecture/pta_1/pta_city_apartments/pta_city_apartment_building" orientation_object="rp_pta_city_apartment_window_opaque" />
+	<bodies>
+		<body name="body_static" enabled="true" template="static">
+			<object name="rp_pta_city_apartment_window_opaque" />
+			<object name="c_box_01" collision_type="box" padding="-2.5" />
+		</body>
+	</bodies>
+	<decal_surfaces default_material="glass_unbreakable">
+		<decal_mesh name="dm_glass_unbreakable" enabled="true" material="glass_unbreakable" />
+	</decal_surfaces>
+	<graphics>
+		<object name="g_g" enabled="true" />
+	</graphics>
+</dynamic_object>

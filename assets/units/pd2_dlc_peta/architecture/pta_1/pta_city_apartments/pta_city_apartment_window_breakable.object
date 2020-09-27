@@ -1,0 +1,14 @@
+<dynamic_object>
+	<diesel materials="units/pd2_dlc_peta/architecture/pta_1/pta_city_apartments/pta_city_apartment_building" orientation_object="rp_pta_city_apartment_window_breakable" />
+	<sequence_manager file="units/pd2_dlc_peta/architecture/pta_1/pta_city_apartments/pta_city_apartment_window_breakable" />
+	<bodies>
+		<body name="glass_body" enabled="true" template="window">
+			<object name="rp_pta_city_apartment_window_breakable" />
+			<object name="c_box_01" collision_type="box" padding="-2.5" />
+		</body>
+	</bodies>
+	<graphics>
+		<object name="g_window" enabled="true" />
+		<object name="g_window_broken" enabled="false" />
+	</graphics>
+</dynamic_object>

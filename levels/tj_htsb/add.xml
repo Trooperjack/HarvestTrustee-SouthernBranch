@@ -7,117 +7,35 @@
 		<texture force="true" path="units/custom/dragon_calendar_03/dragon_calendar_03_df" unload="true"/>
 		<unit force="true" path="units/custom/dragon_calendar_03/dragon_calendar_03" unload="true"/>
 	</add>
-	<add path="RAID_World_War_II/units/vanilla/occluders/occluder_plane_4x8" type="unit">
-		<cooked_physics force="true" path="RAID_World_War_II/units/vanilla/occluders/occluder_plane_4x8" unload="true"/>
-		<material_config force="true" path="RAID_World_War_II/units/vanilla/occluders/occluder_plane" unload="true"/>
-		<model force="true" path="RAID_World_War_II/units/vanilla/occluders/occluder_plane_4x8" unload="true"/>
-		<object force="true" path="RAID_World_War_II/units/vanilla/occluders/occluder_plane_4x8" unload="true"/>
-		<unit force="true" path="RAID_World_War_II/units/vanilla/occluders/occluder_plane_4x8" unload="true"/>
+	<add path="units/custom/pd2_mod_tj_htsb/tj_htsb_occluder/tj_htsb_occluder" type="unit">
+		<cooked_physics force="true" path="units/custom/pd2_mod_tj_htsb/tj_htsb_occluder/tj_htsb_occluder" unload="true"/>
+		<material_config force="true" path="units/payday2/mockup/occluder_plane" unload="true"/>
+		<model force="true" path="units/custom/pd2_mod_tj_htsb/tj_htsb_occluder/tj_htsb_occluder" unload="true"/>
+		<object force="true" path="units/custom/pd2_mod_tj_htsb/tj_htsb_occluder/tj_htsb_occluder" unload="true"/>
+		<unit force="true" path="units/custom/pd2_mod_tj_htsb/tj_htsb_occluder/tj_htsb_occluder" unload="true"/>
 	</add>
-	<add path="RAID_World_War_II/units/vanilla/occluders/occluder_plane_8x8" type="unit">
-		<cooked_physics force="true" path="RAID_World_War_II/units/vanilla/occluders/occluder_plane_8x8" unload="true"/>
-		<material_config force="true" path="RAID_World_War_II/units/vanilla/occluders/occluder_plane" unload="true"/>
-		<model force="true" path="RAID_World_War_II/units/vanilla/occluders/occluder_plane_8x8" unload="true"/>
-		<object force="true" path="RAID_World_War_II/units/vanilla/occluders/occluder_plane_8x8" unload="true"/>
-		<unit force="true" path="RAID_World_War_II/units/vanilla/occluders/occluder_plane_8x8" unload="true"/>
-	</add>
-	<add path="RAID_World_War_II/units/vanilla/occluders/occluder_plane_10_5x8" type="unit">
-		<cooked_physics force="true" path="RAID_World_War_II/units/vanilla/occluders/occluder_plane_10_5x8" unload="true"/>
-		<material_config force="true" path="RAID_World_War_II/units/vanilla/occluders/occluder_plane" unload="true"/>
-		<model force="true" path="RAID_World_War_II/units/vanilla/occluders/occluder_plane_10_5x8" unload="true"/>
-		<object force="true" path="RAID_World_War_II/units/vanilla/occluders/occluder_plane_10_5x8" unload="true"/>
-		<unit force="true" path="RAID_World_War_II/units/vanilla/occluders/occluder_plane_10_5x8" unload="true"/>
-	</add>
-	<add path="RAID_World_War_II/units/vanilla/occluders/occluder_plane_16x8" type="unit">
-		<cooked_physics force="true" path="RAID_World_War_II/units/vanilla/occluders/occluder_plane_16x8" unload="true"/>
-		<material_config force="true" path="RAID_World_War_II/units/vanilla/occluders/occluder_plane" unload="true"/>
-		<model force="true" path="RAID_World_War_II/units/vanilla/occluders/occluder_plane_16x8" unload="true"/>
-		<object force="true" path="RAID_World_War_II/units/vanilla/occluders/occluder_plane_16x8" unload="true"/>
-		<unit force="true" path="RAID_World_War_II/units/vanilla/occluders/occluder_plane_16x8" unload="true"/>
-	</add>
-	<add path="RAID_World_War_II/units/vanilla/occluders/occluder_plane_16x16" type="unit">
-		<cooked_physics force="true" path="RAID_World_War_II/units/vanilla/occluders/occluder_plane_16x16" unload="true"/>
-		<material_config force="true" path="RAID_World_War_II/units/vanilla/occluders/occluder_plane" unload="true"/>
-		<model force="true" path="RAID_World_War_II/units/vanilla/occluders/occluder_plane_16x16" unload="true"/>
-		<object force="true" path="RAID_World_War_II/units/vanilla/occluders/occluder_plane_16x16" unload="true"/>
-		<unit force="true" path="RAID_World_War_II/units/vanilla/occluders/occluder_plane_16x16" unload="true"/>
-	</add>
-	<add path="RAID_World_War_II/units/vanilla/occluders/occluder_plane_60x30" type="unit">
-		<cooked_physics force="true" path="RAID_World_War_II/units/vanilla/occluders/occluder_plane_60x30" unload="true"/>
-		<material_config force="true" path="RAID_World_War_II/units/vanilla/occluders/occluder_plane" unload="true"/>
-		<model force="true" path="RAID_World_War_II/units/vanilla/occluders/occluder_plane_60x30" unload="true"/>
-		<object force="true" path="RAID_World_War_II/units/vanilla/occluders/occluder_plane_60x30" unload="true"/>
-		<unit force="true" path="RAID_World_War_II/units/vanilla/occluders/occluder_plane_60x30" unload="true"/>
-	</add>
-	<add path="RAID_World_War_II/units/vanilla/occluders/occluder_plane_double_4x2" type="unit">
-		<cooked_physics force="true" path="RAID_World_War_II/units/vanilla/occluders/occluder_plane_double_4x2" unload="true"/>
-		<material_config force="true" path="RAID_World_War_II/units/vanilla/occluders/occluder_plane" unload="true"/>
-		<model force="true" path="RAID_World_War_II/units/vanilla/occluders/occluder_plane_double_4x2" unload="true"/>
-		<object force="true" path="RAID_World_War_II/units/vanilla/occluders/occluder_plane_double_4x2" unload="true"/>
-		<unit force="true" path="RAID_World_War_II/units/vanilla/occluders/occluder_plane_double_4x2" unload="true"/>
-	</add>
-	<add path="RAID_World_War_II/units/vanilla/occluders/occluder_plane_double_4x4" type="unit">
-		<cooked_physics force="true" path="RAID_World_War_II/units/vanilla/occluders/occluder_plane_double_4x4" unload="true"/>
-		<material_config force="true" path="RAID_World_War_II/units/vanilla/occluders/occluder_plane" unload="true"/>
-		<model force="true" path="RAID_World_War_II/units/vanilla/occluders/occluder_plane_double_4x4" unload="true"/>
-		<object force="true" path="RAID_World_War_II/units/vanilla/occluders/occluder_plane_double_4x4" unload="true"/>
-		<unit force="true" path="RAID_World_War_II/units/vanilla/occluders/occluder_plane_double_4x4" unload="true"/>
-	</add>
-	<add path="RAID_World_War_II/units/vanilla/occluders/occluder_plane_double_8x8" type="unit">
-		<cooked_physics force="true" path="RAID_World_War_II/units/vanilla/occluders/occluder_plane_double_8x8" unload="true"/>
-		<material_config force="true" path="RAID_World_War_II/units/vanilla/occluders/occluder_plane" unload="true"/>
-		<model force="true" path="RAID_World_War_II/units/vanilla/occluders/occluder_plane_double_8x8" unload="true"/>
-		<object force="true" path="RAID_World_War_II/units/vanilla/occluders/occluder_plane_double_8x8" unload="true"/>
-		<unit force="true" path="RAID_World_War_II/units/vanilla/occluders/occluder_plane_double_8x8" unload="true"/>
-	</add>
-	<add path="RAID_World_War_II/units/vanilla/occluders/occluder_plane_double_10x8" type="unit">
-		<cooked_physics force="true" path="RAID_World_War_II/units/vanilla/occluders/occluder_plane_double_10x8" unload="true"/>
-		<material_config force="true" path="RAID_World_War_II/units/vanilla/occluders/occluder_plane" unload="true"/>
-		<model force="true" path="RAID_World_War_II/units/vanilla/occluders/occluder_plane_double_10x8" unload="true"/>
-		<object force="true" path="RAID_World_War_II/units/vanilla/occluders/occluder_plane_double_10x8" unload="true"/>
-		<unit force="true" path="RAID_World_War_II/units/vanilla/occluders/occluder_plane_double_10x8" unload="true"/>
-	</add>
-	<add path="RAID_World_War_II/units/vanilla/occluders/occluder_plane_double_16x8" type="unit">
-		<cooked_physics force="true" path="RAID_World_War_II/units/vanilla/occluders/occluder_plane_double_16x8" unload="true"/>
-		<material_config force="true" path="RAID_World_War_II/units/vanilla/occluders/occluder_plane" unload="true"/>
-		<model force="true" path="RAID_World_War_II/units/vanilla/occluders/occluder_plane_double_16x8" unload="true"/>
-		<object force="true" path="RAID_World_War_II/units/vanilla/occluders/occluder_plane_double_16x8" unload="true"/>
-		<unit force="true" path="RAID_World_War_II/units/vanilla/occluders/occluder_plane_double_16x8" unload="true"/>
-	</add>
-	<add path="RAID_World_War_II/units/vanilla/occluders/occluder_plane_double_16x16" type="unit">
-		<cooked_physics force="true" path="RAID_World_War_II/units/vanilla/occluders/occluder_plane_double_16x16" unload="true"/>
-		<material_config force="true" path="RAID_World_War_II/units/vanilla/occluders/occluder_plane" unload="true"/>
-		<model force="true" path="RAID_World_War_II/units/vanilla/occluders/occluder_plane_double_16x16" unload="true"/>
-		<object force="true" path="RAID_World_War_II/units/vanilla/occluders/occluder_plane_double_16x16" unload="true"/>
-		<unit force="true" path="RAID_World_War_II/units/vanilla/occluders/occluder_plane_double_16x16" unload="true"/>
-	</add>
-	<add path="RAID_World_War_II/units/vanilla/occluders/occluder_plane_double_35x30" type="unit">
-		<cooked_physics force="true" path="RAID_World_War_II/units/vanilla/occluders/occluder_plane_double_35x30" unload="true"/>
-		<material_config force="true" path="RAID_World_War_II/units/vanilla/occluders/occluder_plane" unload="true"/>
-		<model force="true" path="RAID_World_War_II/units/vanilla/occluders/occluder_plane_double_35x30" unload="true"/>
-		<object force="true" path="RAID_World_War_II/units/vanilla/occluders/occluder_plane_double_35x30" unload="true"/>
-		<unit force="true" path="RAID_World_War_II/units/vanilla/occluders/occluder_plane_double_35x30" unload="true"/>
-	</add>
-	<add path="RAID_World_War_II/units/vanilla/occluders/occluder_plane_double_60x30" type="unit">
-		<cooked_physics force="true" path="RAID_World_War_II/units/vanilla/occluders/occluder_plane_double_60x30" unload="true"/>
-		<material_config force="true" path="RAID_World_War_II/units/vanilla/occluders/occluder_plane" unload="true"/>
-		<model force="true" path="RAID_World_War_II/units/vanilla/occluders/occluder_plane_double_60x30" unload="true"/>
-		<object force="true" path="RAID_World_War_II/units/vanilla/occluders/occluder_plane_double_60x30" unload="true"/>
-		<unit force="true" path="RAID_World_War_II/units/vanilla/occluders/occluder_plane_double_60x30" unload="true"/>
-	</add>
-	<add path="RAID_World_War_II/units/vanilla/occluders/occluder_plane_double_154x30" type="unit">
-		<cooked_physics force="true" path="RAID_World_War_II/units/vanilla/occluders/occluder_plane_double_154x30" unload="true"/>
-		<material_config force="true" path="RAID_World_War_II/units/vanilla/occluders/occluder_plane" unload="true"/>
-		<model force="true" path="RAID_World_War_II/units/vanilla/occluders/occluder_plane_double_154x30" unload="true"/>
-		<object force="true" path="RAID_World_War_II/units/vanilla/occluders/occluder_plane_double_154x30" unload="true"/>
-		<unit force="true" path="RAID_World_War_II/units/vanilla/occluders/occluder_plane_double_154x30" unload="true"/>
-	</add>
-	<add path="RAID_World_War_II/units/vanilla/occluders/occluder_plane_double_173_25x30" type="unit">
-		<cooked_physics force="true" path="RAID_World_War_II/units/vanilla/occluders/occluder_plane_double_173_25x30" unload="true"/>
-		<material_config force="true" path="RAID_World_War_II/units/vanilla/occluders/occluder_plane" unload="true"/>
-		<model force="true" path="RAID_World_War_II/units/vanilla/occluders/occluder_plane_double_173_25x30" unload="true"/>
-		<object force="true" path="RAID_World_War_II/units/vanilla/occluders/occluder_plane_double_173_25x30" unload="true"/>
-		<unit force="true" path="RAID_World_War_II/units/vanilla/occluders/occluder_plane_double_173_25x30" unload="true"/>
+	<add unload_on_restart="true">
+		<material_config	path="units/payday2/architecture/lcm_b/lcm_b_para"						unload="true"/>
+		<unit				path="units/payday2/architecture/lcm_b/lcm_b_ext_vtile2_4x8m_a"			unload="true" force="true" />
+		<object				path="units/payday2/architecture/lcm_b/lcm_b_ext_vtile2_4x8m_a_new"		unload="true"/>
+		<model				path="units/payday2/architecture/lcm_b/lcm_b_ext_vtile2_4x8m_a_new"		unload="true"/>
+		<unit				path="units/payday2/architecture/lcm_b/lcm_b_ext_vtile4_4x8m_b"			unload="true" force="true" />
+		<object				path="units/payday2/architecture/lcm_b/lcm_b_ext_vtile4_4x8m_b_new" 	unload="true"/>
+		<model				path="units/payday2/architecture/lcm_b/lcm_b_ext_vtile4_4x8m_b_new" 	unload="true"/>
+		<unit				path="units/payday2/architecture/lcm_b/lcm_b_ext_vtile4_4x8m_d"			unload="true" force="true" />
+		<object				path="units/payday2/architecture/lcm_b/lcm_b_ext_vtile4_4x8m_d_new"		unload="true"/>
+		<model				path="units/payday2/architecture/lcm_b/lcm_b_ext_vtile4_4x8m_d_new"		unload="true"/>
+		<material_config	path="units/payday2/architecture/hcm/hcm_para"							unload="true"/>
+		<unit				path="units/payday2/architecture/hcm/hcm_ext_8x16m_e"					unload="true"	force="true" />
+		<object				path="units/payday2/architecture/hcm/hcm_ext_8x16m_e_new"				unload="true"/>
+		<model				path="units/payday2/architecture/hcm/hcm_ext_8x16m_e_new"				unload="true"/>
+		<texture			path="shared_textures/ind_brick_white_a_df"								unload="true"/>
+		<texture			path="shared_textures/ind_brick_white_a_dnm"							unload="true"/>
+		<texture			path="shared_textures/hcm_office_a_df"									unload="true"/>
+		<texture			path="shared_textures/hcm_office_a_dnm"									unload="true"/>
+		<texture			path="shared_textures/lcm_apartment_a_df"								unload="true"/>
+		<texture			path="shared_textures/lcm_apartment_a_dnm"								unload="true"/>
+		<texture			path="shared_textures/blank_gsma"										unload="true"/>
 	</add>
 	<add path="units/custom/pd2_mod_tj_htsb/hcm_int_floor_1x1m_a/hcm_int_floor_1x1m_a" type="unit">
 		<cooked_physics force="true" path="units/custom/pd2_mod_tj_htsb/hcm_int_floor_1x1m_a/hcm_int_floor_1x1m_a" unload="true"/>
@@ -655,8 +573,19 @@
 		<unit path="units/payday2/props/air_prop_runway_fence/air_prop_runway_fence_cloth" unload="true"/>
 	</add>
 	<add path="units/pickups/pickup_bank_manager_key/pickup_bank_manager_key" type="unit">
-		<unit path="units/pickups/pickup_bank_manager_key/pickup_bank_manager_key" unload="true"/>
-		<object path="units/pickups/pickup_bank_manager_key/pickup_bank_manager_key" unload="true"/>
 		<material_config path="units/pickups/pickup_bank_manager_key/pickup_bank_manager_key" unload="true"/>
+		<object path="units/pickups/pickup_bank_manager_key/pickup_bank_manager_key" unload="true"/>
+		<unit path="units/pickups/pickup_bank_manager_key/pickup_bank_manager_key" unload="true"/>
+	</add>
+	<add path="units/pd2_dlc_peta/architecture/pta_1/pta_city_apartments/pta_city_apartment_window_opaque" type="unit">
+		<material_config path="units/pd2_dlc_peta/architecture/pta_1/pta_city_apartments/pta_city_apartment_building" unload="true"/>
+		<object path="units/pd2_dlc_peta/architecture/pta_1/pta_city_apartments/pta_city_apartment_window_opaque" unload="true"/>
+		<unit path="units/pd2_dlc_peta/architecture/pta_1/pta_city_apartments/pta_city_apartment_window_opaque" unload="true"/>
+	</add>
+	<add path="units/pd2_dlc_peta/architecture/pta_1/pta_city_apartments/pta_city_apartment_window_breakable" type="unit">
+		<unit path="units/pd2_dlc_peta/architecture/pta_1/pta_city_apartments/pta_city_apartment_window_breakable" unload="true"/>
+		<object path="units/pd2_dlc_peta/architecture/pta_1/pta_city_apartments/pta_city_apartment_window_breakable" unload="true"/>
+		<material_config path="units/pd2_dlc_peta/architecture/pta_1/pta_city_apartments/pta_city_apartment_building" unload="true"/>
+		<sequence_manager path="units/pd2_dlc_peta/architecture/pta_1/pta_city_apartments/pta_city_apartment_window_breakable" unload="true"/>
 	</add>
 </table>

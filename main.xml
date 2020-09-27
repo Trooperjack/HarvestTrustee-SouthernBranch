@@ -110,6 +110,7 @@
 			<value_node value="levels/narratives/bain/roberts/world_sounds"/>
 			<value_node value="levels/narratives/classics/dah/world_sounds"/>
 			<value_node value="levels/narratives/armadillo/arm_par/world"/>
+			<value_node value="levels/instances/unique/dah/dah_keypad/world/world"/>
 		</packages>
 		<script_data_mods directory="scriptdata">
 			<mod replacement="objectives.objective" replacement_type="custom_xml" target_ext="objective" target_path="gamedata/objectives">

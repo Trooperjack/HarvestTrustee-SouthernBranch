@@ -1,0 +1,8 @@
+<unit type="pta" slot="1">
+<network sync="spawn"/>
+	<object file="units/pd2_dlc_peta/architecture/pta_1/pta_city_apartments/pta_city_apartment_window_breakable" />
+	<extensions>
+		<extension name="unit_data" class="ScriptUnitData" />
+		<extension name="damage" class="UnitDamage" />
+	</extensions>
+</unit>
